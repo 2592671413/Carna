@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$_parallelization_settings_8h.html" title="Defines Carna::base::ParallelizationSettings." alt="" coords="100,80,332,107"/>
+<area shape="rect" id="node16" href="$_carna_exception_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure." alt="" coords="356,80,551,107"/>
+<area shape="rect" id="node24" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="877,155,1053,181"/>
+<area shape="rect" id="node26" href="$_carna_progress_dialog_8h.html" title="Defines Carna::base::qt::CarnaProgressDialog." alt="" coords="575,80,815,107"/>
+<area shape="rect" id="node11" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="483,155,588,181"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1view_1_1_monoscopic.html" title="Configures associating view to perform simple monoscopic rendering." alt="" coords="320,5,523,32"/>
+<area shape="rect" id="node5" href="$class_carna_1_1stereoscopic_1_1_philips.html" title="Configures associating view to Philips&#45;compatible stereo mode." alt="" coords="329,56,514,83"/>
+<area shape="rect" id="node7" href="$class_carna_1_1stereoscopic_1_1_zalman.html" title="Configures associating view to Zalman&#45;compatible stereo mode." alt="" coords="327,107,515,133"/>
+</map>

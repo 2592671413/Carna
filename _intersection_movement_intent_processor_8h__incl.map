@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_volume_space_movement_intent_processor_8h.html" title="Defines Carna::base::controller::VolumeSpaceMovementIntentProcessor." alt="" coords="254,80,644,107"/>
+<area shape="rect" id="node22" href="$_slider_type_8h.html" title="Defines Carna::MPR::SliderType." alt="" coords="720,80,885,107"/>
+<area shape="rect" id="node5" href="$_movement_intent_processor_8h.html" title="Defines Carna::base::controller::MovementIntentProcessor." alt="" coords="505,155,815,181"/>
+<area shape="rect" id="node11" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="5,155,181,181"/>
+<area shape="rect" id="node13" href="$_transformation_8h.html" title="Defines Carna::base::Transformation, Carna::base::Vector, Carna::base::fetchModelViewMatrix, Carna::base::fetchProjectionMatrix. Also overloads glTranslate, glMultMatrix, glLoadMatrix." alt="" coords="206,155,393,181"/>
+<area shape="rect" id="node7" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="607,229,712,256"/>
+</map>

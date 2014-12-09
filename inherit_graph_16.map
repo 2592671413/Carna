@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$struct_carna_1_1base_1_1model_1_1_counter.html" title="Carna::base::model::Counter\&lt; std::map\&lt; KeyType, CountingType \&gt;, KeyType, CountingType, ConstReferencedKeyType \&gt;" alt="" coords="6,5,735,32"/>
+<area shape="rect" id="node3" href="$struct_carna_1_1base_1_1model_1_1_associative_counter.html" title="Counter specialization that uses std::map as the underlying data container." alt="" coords="785,5,1359,32"/>
+</map>

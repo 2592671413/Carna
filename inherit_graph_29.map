@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_carna_1_1base_1_1model_1_1_scene_1_1_base_object3_d.html" title="Base class of 3D objects, giving them the opportunity of an exclusive communication with the data mod..." alt="" coords="5,31,277,57"/>
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1model_1_1_object3_d.html" title="Represents an object in 3D space." alt="" coords="325,31,523,57"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1model_1_1_rotatable_object3_d.html" title="Abstract Object3D implementation with rotation support." alt="" coords="571,5,823,32"/>
+<area shape="rect" id="node7" href="$class_carna_1_1base_1_1view_1_1_point3_d.html" title="Represents a point in 3D space." alt="" coords="608,56,787,83"/>
+<area shape="rect" id="node9" href="$class_carna_1_1base_1_1view_1_1_polyline3_d_vertex.html" title="Represents a polyline vertex in 3D space." alt="" coords="872,56,1104,83"/>
+</map>

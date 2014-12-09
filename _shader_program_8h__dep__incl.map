@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_volume_renderer_single_pass_mode_8h.html" title="Defines Carna::VolumeRenderings::VolumeRendererSinglePassMode." alt="" coords="123,80,545,107"/>
+<area shape="rect" id="node5" href="$_x_ray_8h.html" title="Defines Carna::VolumeRenderings::DRR::XRay." alt="" coords="5,155,296,181"/>
+<area shape="rect" id="node7" href="$_direct_volume_rendering_8h.html" title="Defines Carna::VolumeRenderings::DVR::DirectVolumeRendering." alt="" coords="321,155,716,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_carna_1_1base_1_1controller_1_1_default_camera_controller.html" title="InteractionStrategy implementation that controls view::DefaultCamera instances." alt="" coords="328,5,629,32"/>
+<area shape="rect" id="node4" href="$class_carna_1_1base_1_1controller_1_1_interaction_strategy.html" title="Defines the controller component of a visualization." alt="" coords="6,5,277,32"/>
+<area shape="rect" id="node6" href="$class_carna_1_1_volume_renderings_1_1_volume_visualization.html" title="Abstract implementation of the Visualization class that is supposed to perform volume rendering using..." alt="" coords="329,56,628,83"/>
+<area shape="rect" id="node8" href="$class_carna_1_1base_1_1_visualization.html" title="Combines one view (Renderer) and one controller (InteractionStrategy) object through composition..." alt="" coords="54,56,229,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_carna_1_1_volume_renderings_1_1_volume_visualization.html" title="Abstract implementation of the Visualization class that is supposed to perform volume rendering using..." alt="" coords="25,80,324,107"/>
+<area shape="rect" id="node4" href="$class_carna_1_1base_1_1_visualization.html" title="Combines one view (Renderer) and one controller (InteractionStrategy) object through composition..." alt="" coords="87,5,261,32"/>
+</map>

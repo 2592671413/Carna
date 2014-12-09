@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_int_span_8h.html" title="Defines Carna::base::IntSpan." alt="" coords="721,80,913,107"/>
+<area shape="rect" id="node23" href="$_color_map_8h.html" title="Defines Carna::VolumeRenderings::DVR::ColorMap." alt="" coords="937,80,1252,107"/>
+<area shape="rect" id="node5" href="$_int_span_painter_8h.html" title="Defines Carna::base::qt::IntSpanPainter." alt="" coords="369,155,617,181"/>
+<area shape="rect" id="node9" href="$_multi_span_slider_8h.html" title="Defines Carna::base::qt::MultiSpanSlider." alt="" coords="597,304,851,331"/>
+<area shape="rect" id="node16" href="$_multi_span_slider_tracker_8h.html" title="Defines Carna::base::qt::MultiSpanSliderTracker." alt="" coords="762,155,1059,181"/>
+<area shape="rect" id="node21" href="$_channel_8h.html" title="Defines Carna::VolumeRenderings::MIP::Channel." alt="" coords="1083,155,1385,181"/>
+<area shape="rect" id="node7" href="$_null_int_span_painter_8h.html" title="Defines Carna::base::qt::NullIntSpanPainter." alt="" coords="5,229,275,256"/>
+<area shape="rect" id="node13" href="$_color_map_span_painter_8h.html" title="Defines Carna::VolumeRenderings::DVR::ColorMapSpanPainter." alt="" coords="300,229,687,256"/>
+<area shape="rect" id="node11" href="$_color_map_editor_8h.html" title="Defines Carna::VolumeRenderings::DVR::ColorMapEditor." alt="" coords="549,379,899,405"/>
+<area shape="rect" id="node19" href="$_color_map_tracker_8h.html" title="Defines Carna::VolumeRenderings::DVR::ColorMapTracker." alt="" coords="813,229,1171,256"/>
+</map>

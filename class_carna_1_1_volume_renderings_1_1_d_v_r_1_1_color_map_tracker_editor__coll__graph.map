@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_carna_1_1_volume_renderings_1_1_d_v_r_1_1_color_map_editor.html" title="User interface for the configuration of DVR&#39;s color map." alt="" coords="913,95,1218,121"/>
+<area shape="rect" id="node4" href="$class_carna_1_1base_1_1qt_1_1_multi_span_slider.html" title="Supplies a widget, which provides an intuitive way of creating, editing and removing non&#45;overlapping ..." alt="" coords="475,79,685,105"/>
+<area shape="rect" id="node6" href="$class_carna_1_1base_1_1qt_1_1_multi_span_slider_model_view_mapping.html" title="Defines the mapping of numerical values from model space to pixels in view space and vise versa for M..." alt="" coords="5,79,328,105"/>
+<area shape="rect" id="node8" href="$class_carna_1_1base_1_1qt_1_1_rotating_color.html" title="Represents rotating colors." alt="" coords="481,129,679,156"/>
+<area shape="rect" id="node11" href="$class_carna_1_1base_1_1_span.html" title="Defines an interval &#160;with ." alt="" coords="499,180,661,207"/>
+</map>

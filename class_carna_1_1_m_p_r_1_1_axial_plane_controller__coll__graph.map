@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_carna_1_1base_1_1controller_1_1_default_interaction_strategy.html" title="Implementation of InteractionStrategy which controls the camera and is capable of performing object d..." alt="" coords="369,31,679,57"/>
+<area shape="rect" id="node4" href="$class_carna_1_1base_1_1controller_1_1_interaction_strategy.html" title="Defines the controller component of a visualization." alt="" coords="6,5,277,32"/>
+<area shape="rect" id="node6" href="$class_carna_1_1base_1_1_visualization.html" title="Combines one view (Renderer) and one controller (InteractionStrategy) object through composition..." alt="" coords="54,56,229,83"/>
+<area shape="rect" id="node8" href="$class_carna_1_1base_1_1_flags.html" title="Carna::base::Flags\&lt; CursorCapabilities \&gt;" alt="" coords="393,81,655,108"/>
+<area shape="rect" id="node10" href="$class_carna_1_1base_1_1model_1_1_scene.html" title="Defines the data model." alt="" coords="434,132,614,159"/>
+</map>

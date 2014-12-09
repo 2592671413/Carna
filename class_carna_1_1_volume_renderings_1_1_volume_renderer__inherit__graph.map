@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_carna_1_1_volume_renderings_1_1_default_volume_renderer.html" title="Renderer that implements ray marching. This is a technique widely used in 3D graphics for rendering v..." alt="" coords="5,155,323,181"/>
+<area shape="rect" id="node2" href="$class_carna_1_1base_1_1view_1_1_renderer.html" title="Represents the view component of a visualization and implements its rendering logic." alt="" coords="72,5,256,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_carna_1_1base_1_1_association.html" title="Represents an association." alt="" coords="5,31,328,57"/>
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_aggregation.html" title="Represents an aggregation." alt="" coords="378,5,702,32"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_composition.html" title="Represents a composition." alt="" coords="377,56,703,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_carna_1_1base_1_1view_1_1_polyline3_d_vertex.html" title="Represents a polyline vertex in 3D space." alt="" coords="25,229,257,256"/>
+<area shape="rect" id="node2" href="$class_carna_1_1base_1_1model_1_1_object3_d.html" title="Represents an object in 3D space." alt="" coords="43,80,240,107"/>
+<area shape="rect" id="node4" href="$class_carna_1_1base_1_1model_1_1_scene_1_1_base_object3_d.html" title="Base class of 3D objects, giving them the opportunity of an exclusive communication with the data mod..." alt="" coords="5,5,277,32"/>
+</map>

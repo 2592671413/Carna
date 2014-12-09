@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_carna_1_1_slice_planes_1_1_slice_plane_renderer.html" title="Abstract Renderer specialization that is supposed to utilize the SlicePlane class for rendering slice..." alt="" coords="13,264,267,291"/>
+<area shape="rect" id="node4" href="$class_carna_1_1base_1_1view_1_1_renderer.html" title="Represents the view component of a visualization and implements its rendering logic." alt="" coords="48,187,232,213"/>
+<area shape="rect" id="node6" href="$class_carna_1_1base_1_1view_1_1_scene_provider.html" title="Interfaces the data model from a view&#39;s perspective and provides graphical representations of model e..." alt="" coords="33,96,247,123"/>
+<area shape="rect" id="node8" href="$class_carna_1_1base_1_1model_1_1_scene.html" title="Defines the data model." alt="" coords="50,5,229,32"/>
+</map>

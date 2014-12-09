@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_carna_1_1_m_p_r_1_1_axial_plane_visualization.html" title="Abstract implementation of the Visualization class that is supposed to display the orthogonal interse..." alt="" coords="25,80,263,107"/>
+<area shape="rect" id="node4" href="$class_carna_1_1base_1_1_visualization.html" title="Combines one view (Renderer) and one controller (InteractionStrategy) object through composition..." alt="" coords="57,5,231,32"/>
+</map>

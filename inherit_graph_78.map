@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_carna_1_1_m_p_r_1_1_slider_screen_space_buffer.html" title="Describes position of panel sliders in screen space." alt="" coords="5,31,251,57"/>
+<area shape="rect" id="node3" href="$class_carna_1_1_m_p_r_1_1_axial_slider_screen_space_buffer.html" title="SliderScreenSpaceBuffer implementation, suitable for plane sliders that are aligned along the screen ..." alt="" coords="299,5,573,32"/>
+<area shape="rect" id="node5" href="$class_carna_1_1_m_p_r_1_1_null_slider_screen_space_buffer.html" title="Null&#45;implementation of SliderScreenSpaceBuffer." alt="" coords="303,56,569,83"/>
+</map>

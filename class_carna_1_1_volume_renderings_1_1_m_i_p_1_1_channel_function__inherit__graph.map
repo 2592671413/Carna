@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_carna_1_1_volume_renderings_1_1_m_i_p_1_1_generic_channel_function.html" title="Generic abstract implementation of ChannelFunction." alt="" coords="384,5,864,32"/>
+<area shape="rect" id="node5" href="$class_carna_1_1_volume_renderings_1_1_m_i_p_1_1_generic_channel_function.html" title="Carna::VolumeRenderings::MIP::GenericChannelFunction\&lt; ChannelAddFunction \&gt;" alt="" coords="375,56,873,83"/>
+<area shape="rect" id="node9" href="$class_carna_1_1_volume_renderings_1_1_m_i_p_1_1_generic_channel_function.html" title="Carna::VolumeRenderings::MIP::GenericChannelFunction\&lt; ChannelReplaceFunction \&gt;" alt="" coords="363,107,885,133"/>
+<area shape="rect" id="node7" href="$class_carna_1_1_volume_renderings_1_1_m_i_p_1_1_channel_add_function.html" title="Provides additive blending for MIP channels." alt="" coords="946,56,1278,83"/>
+<area shape="rect" id="node11" href="$class_carna_1_1_volume_renderings_1_1_m_i_p_1_1_channel_replace_function.html" title="Makes the higher prioritized channel replace the lower one." alt="" coords="934,107,1290,133"/>
+</map>
