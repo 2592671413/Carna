@@ -491,11 +491,11 @@ Exemplary MPR rendering</div></div>
  }
 </pre></div><h3><a class="anchor" id="OffscreenRenderingExample"></a>
 Offscreen Rendering Example Code</h3>
-<p>Offscreen rendering as an "out of the box" feature is supported since Carna <a class="el" href="_version_log.html#v_2_1_5">API Version 2.1 Release 5</a>.</p>
+<p>Offscreen rendering as an "out of the box" feature is supported since Carna <a class="el" href="_version_log.html#v_2_1_5">API Version 2.1.5</a>.</p>
 <p>Interface definition:</p>
 <div class="fragment"><pre class="fragment"><span class="preprocessor"> #include &lt;<a class="code" href="_application_8h.html" title="Defines Carna::base::Application.">Carna/base/Application.h</a>&gt;</span>
 <span class="preprocessor"> #include &lt;<a class="code" href="_scene_provider_8h.html" title="Defines Carna::base::view::SceneProvider.">Carna/base/view/SceneProvider.h</a>&gt;</span>
-<span class="preprocessor"> #include &lt;<a class="code" href="_version_8h.html" title="Defines the macros CARNA_MAJOR_VERSION, CARNA_MINOR_VERSION, CARNA_RELEASE_VERSION and CARNA_ASSERT_A...">Carna/Version.h</a>&gt;</span>
+<span class="preprocessor"> #include &lt;<a class="code" href="_version_8h.html" title="Defines the macros CARNA_MAJOR_VERSION, CARNA_MINOR_VERSION, CARNA_PATCH_VERSION and CARNA_ASSERT_API...">Carna/Version.h</a>&gt;</span>
 
 <span class="preprocessor"> #include &lt;Carna/base/view/OffscreenDisplay.h&gt;</span>
 <span class="preprocessor"> #include &lt;Carna/base/view/OffscreenVisualizationEnvironment.h&gt;</span>
@@ -506,7 +506,7 @@ Offscreen Rendering Example Code</h3>
 
  static_assert(
          <a class="code" href="_version_8h.html#a109c2e19927c6e40c15272fe1c916c2d" title="Defines the API major version number of this Carna implementation.">CARNA_MAJOR_VERSION</a> == 2 &amp;&amp;
-                 ( <a class="code" href="_version_8h.html#a7d492cfb037dc3861259d167dd22d3df" title="Defines the API minor version number of this Carna implementation.">CARNA_MINOR_VERSION</a> &gt; 1 || ( <a class="code" href="_version_8h.html#a7d492cfb037dc3861259d167dd22d3df" title="Defines the API minor version number of this Carna implementation.">CARNA_MINOR_VERSION</a> == 1 &amp;&amp; <a class="code" href="_version_8h.html#a8b24c5ec04d74abd292ac360b2952c8c" title="Defines the API release version number of this Carna implementation.">CARNA_RELEASE_VERSION</a> == 5 ) ) );
+                 ( <a class="code" href="_version_8h.html#a7d492cfb037dc3861259d167dd22d3df" title="Defines the API minor version number of this Carna implementation.">CARNA_MINOR_VERSION</a> &gt; 1 || ( <a class="code" href="_version_8h.html#a7d492cfb037dc3861259d167dd22d3df" title="Defines the API minor version number of this Carna implementation.">CARNA_MINOR_VERSION</a> == 1 &amp;&amp; CARNA_RELEASE_VERSION == 5 ) ) );
 
  <span class="keyword">class </span>OffscreenRenderingDemo : <span class="keyword">public</span> Carna::base::Application
  {

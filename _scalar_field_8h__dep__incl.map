@@ -1,19 +1,20 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$_buffered_mask_8h.html" title="Defines Carna::base::model::BufferedMask." alt="" coords="161,80,428,107"/>
-<area shape="rect" id="node7" href="$_scene_8h.html" title="Defines Carna::base::model::Scene." alt="" coords="415,155,639,181"/>
-<area shape="rect" id="node27" href="$_scene_factory_8h.html" title="Defines Carna::base::model::SceneFactory." alt="" coords="534,80,801,107"/>
-<area shape="rect" id="node29" href="$_volume_8h.html" title="Defines Carna::base::model::Volume." alt="" coords="826,80,1056,107"/>
-<area shape="rect" id="node5" href="$_buffered_mask_adapter_8h.html" title="Defines Carna::base::model::BufferedMaskAdapter." alt="" coords="79,155,389,181"/>
+<area shape="rect" id="node3" href="$_buffered_mask_8h.html" title="Defines Carna::base::model::BufferedMask." alt="" coords="204,80,471,107"/>
+<area shape="rect" id="node7" href="$_scene_8h.html" title="Defines Carna::base::model::Scene." alt="" coords="384,155,608,181"/>
+<area shape="rect" id="node27" href="$_scene_factory_8h.html" title="Defines Carna::base::model::SceneFactory." alt="" coords="1058,80,1325,107"/>
+<area shape="rect" id="node31" href="$_volume_8h.html" title="Defines Carna::base::model::Volume." alt="" coords="678,80,908,107"/>
+<area shape="rect" id="node5" href="$_buffered_mask_adapter_8h.html" title="Defines Carna::base::model::BufferedMaskAdapter." alt="" coords="49,155,359,181"/>
 <area shape="rect" id="node9" href="$_object3_d_8h.html" title="Defines Carna::base::model::Object3D." alt="" coords="174,304,415,331"/>
-<area shape="rect" id="node19" href="$_position_8h.html" title="Defines Carna::base::model::Position." alt="" coords="255,229,489,256"/>
-<area shape="rect" id="node22" href="$_h_u_g_z_scene_factory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="521,304,732,331"/>
-<area shape="rect" id="node24" href="$_h_u_i_o_8h_source.html" title="test/Tools/HUIO.h" alt="" coords="564,229,689,256"/>
+<area shape="rect" id="node19" href="$_position_8h.html" title="Defines Carna::base::model::Position." alt="" coords="149,229,384,256"/>
+<area shape="rect" id="node22" href="$_h_u_g_z_scene_factory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="467,304,677,331"/>
+<area shape="rect" id="node24" href="$_h_u_i_o_8h_source.html" title="test/Tools/HUIO.h" alt="" coords="509,229,635,256"/>
 <area shape="rect" id="node11" href="$_rotatable_object3_d_8h.html" title="Defines Carna::base::model::RotatableObject3D." alt="" coords="5,379,301,405"/>
 <area shape="rect" id="node13" href="$_point3_d_8h.html" title="Defines Carna::base::view::Point3D." alt="" coords="326,379,548,405"/>
 <area shape="rect" id="node15" href="$_polyline3_d_vertex_8h.html" title="Defines Carna::base::view::Polyline3DVertex." alt="" coords="299,453,575,480"/>
 <area shape="rect" id="node17" href="$_polyline_8h.html" title="Defines Carna::base::view::Polyline." alt="" coords="326,528,548,555"/>
-<area shape="rect" id="node31" href="$_generic_volume_8h.html" title="Defines Carna::base::model::GenericVolume." alt="" coords="711,155,987,181"/>
-<area shape="rect" id="node36" href="$_histogram_8h.html" title="Defines Carna::base::model::Counter, Carna::base::model::AssociativeCounter, Carna::base::model::Inde..." alt="" coords="1029,155,1275,181"/>
-<area shape="rect" id="node33" href="$_u_int16_volume_8h.html" title="Defines Carna::base::model::UInt16Volume." alt="" coords="714,229,981,256"/>
-<area shape="rect" id="node38" href="$_histogram_class_detector_8h_source.html" title="include/Carna/base/model/HistogramClassDetector.h" alt="" coords="1007,229,1335,256"/>
+<area shape="rect" id="node29" href="$_u_int16_volume_base_worker_8h_source.html" title="include/Carna/base/model/UInt16VolumeBaseWorker.h" alt="" coords="925,304,1264,331"/>
+<area shape="rect" id="node33" href="$_generic_volume_8h.html" title="Defines Carna::base::model::GenericVolume." alt="" coords="655,155,931,181"/>
+<area shape="rect" id="node39" href="$_histogram_8h.html" title="Defines Carna::base::model::Counter, Carna::base::model::AssociativeCounter, Carna::base::model::Inde..." alt="" coords="974,155,1220,181"/>
+<area shape="rect" id="node35" href="$_u_int16_volume_8h.html" title="Defines Carna::base::model::UInt16Volume." alt="" coords="659,229,927,256"/>
+<area shape="rect" id="node41" href="$_histogram_class_detector_8h_source.html" title="include/Carna/base/model/HistogramClassDetector.h" alt="" coords="952,229,1280,256"/>
 </map>

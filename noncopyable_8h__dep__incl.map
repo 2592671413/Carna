@@ -1,51 +1,51 @@
 <map id="G" name="G">
-<area shape="rect" id="node3" href="$_application_8h.html" title="Defines Carna::base::Application." alt="" coords="955,80,1167,107"/>
-<area shape="rect" id="node5" href="$_association_8h.html" title="Defines Carna::base::Association." alt="" coords="1243,80,1459,107"/>
-<area shape="rect" id="node13" href="$_scene_8h.html" title="Defines Carna::base::model::Scene." alt="" coords="317,155,541,181"/>
-<area shape="rect" id="node25" href="$_renderer_8h.html" title="Defines Carna::base::view::Renderer." alt="" coords="1722,155,1949,181"/>
-<area shape="rect" id="node29" href="$_axial_plane_renderer_8h.html" title="Defines Carna::MPR::AxialPlaneRenderer." alt="" coords="2310,229,2572,256"/>
-<area shape="rect" id="node31" href="$_default_axial_plane_renderer_8h.html" title="Defines Carna::MPR::DefaultAxialPlaneRenderer." alt="" coords="2374,304,2676,331"/>
-<area shape="rect" id="node41" href="$_default_interaction_strategy_8h.html" title="Defines Carna::base::controller::DefaultInteractionStrategy." alt="" coords="2303,80,2657,107"/>
-<area shape="rect" id="node45" href="$_volume_space_movement_intent_processor_8h.html" title="Defines Carna::base::controller::VolumeSpaceMovementIntentProcessor." alt="" coords="2682,80,3117,107"/>
-<area shape="rect" id="node52" href="$_volume_8h.html" title="Defines Carna::base::model::Volume." alt="" coords="1569,80,1799,107"/>
-<area shape="rect" id="node57" href="$_offscreen_display_8h.html" title="Defines Carna::base::OffscreenDisplay." alt="" coords="3142,80,3388,107"/>
-<area shape="rect" id="node61" href="$_parallelization_8h.html" title="Defines Carna::base::Parallelization, Carna::base::qt::ParallelizationUI." alt="" coords="3641,155,3871,181"/>
-<area shape="rect" id="node63" href="$_carna_progress_dialog_8h.html" title="Defines Carna::base::qt::CarnaProgressDialog." alt="" coords="3464,80,3749,107"/>
-<area shape="rect" id="node66" href="$_display_8h.html" title="Defines Carna::base::qt::Display." alt="" coords="3895,155,4101,181"/>
-<area shape="rect" id="node68" href="$_object3_d_chooser_8h.html" title="Defines Carna::base::qt::Object3DChooser." alt="" coords="4131,80,4396,107"/>
-<area shape="rect" id="node70" href="$_default_object3_d_painting_routine_8h.html" title="Defines Carna::base::view::DefaultObject3DPaintingRoutine." alt="" coords="4421,80,4781,107"/>
-<area shape="rect" id="node72" href="$_framebuffer_object_8h.html" title="Defines Carna::base::view::FramebufferObject." alt="" coords="3824,80,4107,107"/>
-<area shape="rect" id="node75" href="$_incremental_color_painting_routine_8h.html" title="Defines Carna::base::view::IncrementalColorPaintingRoutine." alt="" coords="4806,80,5169,107"/>
-<area shape="rect" id="node78" href="$_render_texture_8h.html" title="Defines Carna::base::view::RenderTexture." alt="" coords="5194,80,5453,107"/>
-<area shape="rect" id="node80" href="$_scene_provider_8h.html" title="Defines Carna::base::view::SceneProvider." alt="" coords="5479,80,5737,107"/>
-<area shape="rect" id="node82" href="$_shader_8h.html" title="Defines Carna::base::view::Shader." alt="" coords="5762,80,5979,107"/>
-<area shape="rect" id="node84" href="$_shader_program_8h.html" title="Defines Carna::base::view::ShaderProgram." alt="" coords="6004,80,6271,107"/>
-<area shape="rect" id="node86" href="$_visualization_8h.html" title="Defines Carna::base::Visualization." alt="" coords="6295,80,6517,107"/>
-<area shape="rect" id="node88" href="$_visualization_environment_8h.html" title="Defines Carna::base::VisualizationEnvironment." alt="" coords="6543,80,6836,107"/>
-<area shape="rect" id="node90" href="$_axial_plane_controller_u_i_8h.html" title="Defines Carna::MPR::AxialPlaneControllerUI." alt="" coords="6861,80,7139,107"/>
-<area shape="rect" id="node94" href="$_slider_painter_8h.html" title="Defines Carna::MPR::SliderPainter." alt="" coords="7163,80,7385,107"/>
-<area shape="rect" id="node96" href="$_slider_screen_space_buffer_8h.html" title="Defines Carna::MPR::SliderScreenSpaceBuffer." alt="" coords="7411,80,7704,107"/>
-<area shape="rect" id="node98" href="$_slice_plane_8h.html" title="Defines Carna::SlicePlanes::SlicePlane." alt="" coords="7728,80,7979,107"/>
-<area shape="rect" id="node100" href="$_slice_plane_controller_u_i_8h.html" title="Defines Carna::SlicePlanes::SlicePlaneControllerUI." alt="" coords="8003,80,8321,107"/>
-<area shape="rect" id="node102" href="$_color_map_8h.html" title="Defines Carna::VolumeRenderings::DVR::ColorMap." alt="" coords="8347,80,8661,107"/>
-<area shape="rect" id="node104" href="$_channel_8h.html" title="Defines Carna::VolumeRenderings::MIP::Channel." alt="" coords="8686,80,8988,107"/>
-<area shape="rect" id="node106" href="$_ray_marching_8h.html" title="Defines Carna::VolumeRenderings::RayMarching." alt="" coords="9013,80,9317,107"/>
-<area shape="rect" id="node108" href="$_volume_renderer_mode_8h.html" title="Defines Carna::VolumeRenderings::VolumeRendererMode." alt="" coords="9343,80,9700,107"/>
-<area shape="rect" id="node7" href="$_aggregation_8h.html" title="Defines Carna::base::Aggregation." alt="" coords="914,155,1131,181"/>
-<area shape="rect" id="node9" href="$_composition_8h.html" title="Defines Carna::base::Composition." alt="" coords="1155,155,1375,181"/>
-<area shape="rect" id="node11" href="$_generic_volume_8h.html" title="Defines Carna::base::model::GenericVolume." alt="" coords="545,229,820,256"/>
-<area shape="rect" id="node15" href="$_object3_d_8h.html" title="Defines Carna::base::model::Object3D." alt="" coords="267,304,508,331"/>
-<area shape="rect" id="node17" href="$_position_8h.html" title="Defines Carna::base::model::Position." alt="" coords="235,229,469,256"/>
-<area shape="rect" id="node20" href="$_h_u_g_z_scene_factory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="5,304,216,331"/>
-<area shape="rect" id="node22" href="$_h_u_i_o_8h_source.html" title="test/Tools/HUIO.h" alt="" coords="85,229,211,256"/>
-<area shape="rect" id="node27" href="$_monoscopic_8h.html" title="Defines Carna::base::view::Monoscopic." alt="" coords="1713,229,1959,256"/>
-<area shape="rect" id="node33" href="$_slice_plane_renderer_8h.html" title="Defines Carna::SlicePlanes::SlicePlaneRenderer." alt="" coords="1983,229,2285,256"/>
-<area shape="rect" id="node35" href="$_philips_8h.html" title="Defines Carna::stereoscopic::Philips." alt="" coords="845,229,1077,256"/>
-<area shape="rect" id="node37" href="$_zalman_8h.html" title="Defines Carna::stereoscopic::Zalman." alt="" coords="1102,229,1337,256"/>
-<area shape="rect" id="node39" href="$_volume_renderer_8h.html" title="Defines Carna::VolumeRenderings::VolumeRenderer." alt="" coords="1363,229,1688,256"/>
-<area shape="rect" id="node43" href="$_axial_plane_controller_8h.html" title="Defines Carna::MPR::AxialPlaneController." alt="" coords="2303,155,2569,181"/>
-<area shape="rect" id="node47" href="$_object3_d_movement_intent_processor_8h.html" title="Defines Carna::base::controller::Object3DMovementIntentProcessor." alt="" coords="2594,155,3003,181"/>
-<area shape="rect" id="node49" href="$_intersection_movement_intent_processor_8h.html" title="Defines Carna::MPR::IntersectionMovementIntentProcessor." alt="" coords="3027,155,3393,181"/>
-<area shape="rect" id="node55" href="$_histogram_8h.html" title="Defines Carna::base::model::Counter, Carna::base::model::AssociativeCounter, Carna::base::model::Inde..." alt="" coords="1399,155,1645,181"/>
-<area shape="rect" id="node59" href="$_framebuffer_tester_8h_source.html" title="test/Tools/FramebufferTester.h" alt="" coords="3418,155,3616,181"/>
+<area shape="rect" id="node3" href="$_application_8h.html" title="Defines Carna::base::Application." alt="" coords="1169,80,1380,107"/>
+<area shape="rect" id="node5" href="$_association_8h.html" title="Defines Carna::base::Association." alt="" coords="1507,80,1723,107"/>
+<area shape="rect" id="node13" href="$_scene_8h.html" title="Defines Carna::base::model::Scene." alt="" coords="293,155,517,181"/>
+<area shape="rect" id="node25" href="$_renderer_8h.html" title="Defines Carna::base::view::Renderer." alt="" coords="1133,155,1360,181"/>
+<area shape="rect" id="node29" href="$_axial_plane_renderer_8h.html" title="Defines Carna::MPR::AxialPlaneRenderer." alt="" coords="1658,229,1920,256"/>
+<area shape="rect" id="node31" href="$_default_axial_plane_renderer_8h.html" title="Defines Carna::MPR::DefaultAxialPlaneRenderer." alt="" coords="1873,304,2175,331"/>
+<area shape="rect" id="node39" href="$_default_interaction_strategy_8h.html" title="Defines Carna::base::controller::DefaultInteractionStrategy." alt="" coords="2243,80,2597,107"/>
+<area shape="rect" id="node43" href="$_volume_space_movement_intent_processor_8h.html" title="Defines Carna::base::controller::VolumeSpaceMovementIntentProcessor." alt="" coords="2622,80,3057,107"/>
+<area shape="rect" id="node50" href="$_u_int16_volume_base_worker_8h_source.html" title="include/Carna/base/model/UInt16VolumeBaseWorker.h" alt="" coords="3082,80,3421,107"/>
+<area shape="rect" id="node52" href="$_volume_8h.html" title="Defines Carna::base::model::Volume." alt="" coords="1937,80,2167,107"/>
+<area shape="rect" id="node57" href="$_offscreen_display_8h.html" title="Defines Carna::base::OffscreenDisplay." alt="" coords="3446,80,3692,107"/>
+<area shape="rect" id="node61" href="$_parallelization_8h.html" title="Defines Carna::base::Parallelization, Carna::base::qt::ParallelizationUI." alt="" coords="3865,155,4095,181"/>
+<area shape="rect" id="node63" href="$_carna_progress_dialog_8h.html" title="Defines Carna::base::qt::CarnaProgressDialog." alt="" coords="3717,80,4003,107"/>
+<area shape="rect" id="node66" href="$_display_8h.html" title="Defines Carna::base::qt::Display." alt="" coords="4177,155,4383,181"/>
+<area shape="rect" id="node68" href="$_object3_d_chooser_8h.html" title="Defines Carna::base::qt::Object3DChooser." alt="" coords="4435,80,4700,107"/>
+<area shape="rect" id="node70" href="$_default_object3_d_painting_routine_8h.html" title="Defines Carna::base::view::DefaultObject3DPaintingRoutine." alt="" coords="4725,80,5085,107"/>
+<area shape="rect" id="node72" href="$_framebuffer_object_8h.html" title="Defines Carna::base::view::FramebufferObject." alt="" coords="4077,80,4360,107"/>
+<area shape="rect" id="node75" href="$_incremental_color_painting_routine_8h.html" title="Defines Carna::base::view::IncrementalColorPaintingRoutine." alt="" coords="5110,80,5473,107"/>
+<area shape="rect" id="node78" href="$_render_texture_8h.html" title="Defines Carna::base::view::RenderTexture." alt="" coords="5498,80,5757,107"/>
+<area shape="rect" id="node80" href="$_scene_provider_8h.html" title="Defines Carna::base::view::SceneProvider." alt="" coords="5783,80,6041,107"/>
+<area shape="rect" id="node82" href="$_shader_8h.html" title="Defines Carna::base::view::Shader." alt="" coords="6066,80,6283,107"/>
+<area shape="rect" id="node84" href="$_shader_program_8h.html" title="Defines Carna::base::view::ShaderProgram." alt="" coords="6308,80,6575,107"/>
+<area shape="rect" id="node86" href="$_visualization_8h.html" title="Defines Carna::base::Visualization." alt="" coords="6599,80,6821,107"/>
+<area shape="rect" id="node88" href="$_visualization_environment_8h.html" title="Defines Carna::base::VisualizationEnvironment." alt="" coords="6847,80,7140,107"/>
+<area shape="rect" id="node90" href="$_axial_plane_controller_u_i_8h.html" title="Defines Carna::MPR::AxialPlaneControllerUI." alt="" coords="7165,80,7443,107"/>
+<area shape="rect" id="node94" href="$_slider_painter_8h.html" title="Defines Carna::MPR::SliderPainter." alt="" coords="7467,80,7689,107"/>
+<area shape="rect" id="node96" href="$_slider_screen_space_buffer_8h.html" title="Defines Carna::MPR::SliderScreenSpaceBuffer." alt="" coords="7715,80,8008,107"/>
+<area shape="rect" id="node98" href="$_slice_plane_8h.html" title="Defines Carna::SlicePlanes::SlicePlane." alt="" coords="8032,80,8283,107"/>
+<area shape="rect" id="node100" href="$_slice_plane_controller_u_i_8h.html" title="Defines Carna::SlicePlanes::SlicePlaneControllerUI." alt="" coords="8307,80,8625,107"/>
+<area shape="rect" id="node102" href="$_color_map_8h.html" title="Defines Carna::VolumeRenderings::DVR::ColorMap." alt="" coords="8651,80,8965,107"/>
+<area shape="rect" id="node104" href="$_channel_8h.html" title="Defines Carna::VolumeRenderings::MIP::Channel." alt="" coords="8990,80,9292,107"/>
+<area shape="rect" id="node106" href="$_ray_marching_8h.html" title="Defines Carna::VolumeRenderings::RayMarching." alt="" coords="9317,80,9621,107"/>
+<area shape="rect" id="node108" href="$_volume_renderer_mode_8h.html" title="Defines Carna::VolumeRenderings::VolumeRendererMode." alt="" coords="9647,80,10004,107"/>
+<area shape="rect" id="node7" href="$_aggregation_8h.html" title="Defines Carna::base::Aggregation." alt="" coords="1385,155,1601,181"/>
+<area shape="rect" id="node9" href="$_composition_8h.html" title="Defines Carna::base::Composition." alt="" coords="1626,155,1845,181"/>
+<area shape="rect" id="node11" href="$_generic_volume_8h.html" title="Defines Carna::base::model::GenericVolume." alt="" coords="1945,229,2220,256"/>
+<area shape="rect" id="node15" href="$_object3_d_8h.html" title="Defines Carna::base::model::Object3D." alt="" coords="5,304,245,331"/>
+<area shape="rect" id="node17" href="$_position_8h.html" title="Defines Carna::base::model::Position." alt="" coords="84,229,319,256"/>
+<area shape="rect" id="node20" href="$_h_u_g_z_scene_factory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="300,304,511,331"/>
+<area shape="rect" id="node22" href="$_h_u_i_o_8h_source.html" title="test/Tools/HUIO.h" alt="" coords="393,229,519,256"/>
+<area shape="rect" id="node27" href="$_monoscopic_8h.html" title="Defines Carna::base::view::Monoscopic." alt="" coords="1387,229,1633,256"/>
+<area shape="rect" id="node33" href="$_slice_plane_renderer_8h.html" title="Defines Carna::SlicePlanes::SlicePlaneRenderer." alt="" coords="543,229,845,256"/>
+<area shape="rect" id="node35" href="$_philips_8h.html" title="Defines Carna::stereoscopic::Philips." alt="" coords="870,229,1103,256"/>
+<area shape="rect" id="node37" href="$_zalman_8h.html" title="Defines Carna::stereoscopic::Zalman." alt="" coords="1127,229,1363,256"/>
+<area shape="rect" id="node41" href="$_axial_plane_controller_8h.html" title="Defines Carna::MPR::AxialPlaneController." alt="" coords="2295,155,2561,181"/>
+<area shape="rect" id="node45" href="$_object3_d_movement_intent_processor_8h.html" title="Defines Carna::base::controller::Object3DMovementIntentProcessor." alt="" coords="2611,155,3020,181"/>
+<area shape="rect" id="node47" href="$_intersection_movement_intent_processor_8h.html" title="Defines Carna::MPR::IntersectionMovementIntentProcessor." alt="" coords="3045,155,3411,181"/>
+<area shape="rect" id="node55" href="$_histogram_8h.html" title="Defines Carna::base::model::Counter, Carna::base::model::AssociativeCounter, Carna::base::model::Inde..." alt="" coords="1922,155,2168,181"/>
+<area shape="rect" id="node59" href="$_framebuffer_tester_8h_source.html" title="test/Tools/FramebufferTester.h" alt="" coords="3470,155,3668,181"/>
 </map>

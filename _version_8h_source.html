@@ -137,10 +137,10 @@ function toggleVisibility(linkObj) {
 <a name="l00056"></a>00056 
 <a name="l00057"></a>00057 
 <a name="l00058"></a>00058 <span class="comment">// ----------------------------------------------------------------------------------</span>
-<a name="l00059"></a>00059 <span class="comment">// CARNA_RELEASE_VERSION</span>
+<a name="l00059"></a>00059 <span class="comment">// CARNA_PATCH_VERSION</span>
 <a name="l00060"></a>00060 <span class="comment">// ----------------------------------------------------------------------------------</span>
 <a name="l00061"></a>00061 
-<a name="l00066"></a><a class="code" href="_version_8h.html#a8b24c5ec04d74abd292ac360b2952c8c">00066</a> <span class="preprocessor">#define CARNA_RELEASE_VERSION 0</span>
+<a name="l00066"></a><a class="code" href="_version_8h.html#ae66fbc50913290e683c9d25ac053222b">00066</a> <span class="preprocessor">#define CARNA_PATCH_VERSION 0</span>
 <a name="l00067"></a>00067 <span class="preprocessor"></span>
 <a name="l00068"></a>00068 
 <a name="l00069"></a>00069 
@@ -148,11 +148,11 @@ function toggleVisibility(linkObj) {
 <a name="l00071"></a>00071 <span class="comment">// CARNA_ASSERT_API_VERSION</span>
 <a name="l00072"></a>00072 <span class="comment">// ----------------------------------------------------------------------------------</span>
 <a name="l00073"></a>00073 
-<a name="l00084"></a><a class="code" href="_version_8h.html#a95a1178f903fb033cc20409f9c7883d9">00084</a> <span class="preprocessor">#define CARNA_ASSERT_API_VERSION( expected_major_version, expected_minor_version, expected_release_version ) \</span>
+<a name="l00084"></a><a class="code" href="_version_8h.html#a890f37deb86adf0df89eb5b29e21cb9d">00084</a> <span class="preprocessor">#define CARNA_ASSERT_API_VERSION( expected_major_version, expected_minor_version, expected_patch_version ) \</span>
 <a name="l00085"></a>00085 <span class="preprocessor">    static_assert( \</span>
 <a name="l00086"></a>00086 <span class="preprocessor">            expected_major_version == CARNA_MAJOR_VERSION &amp;&amp; \</span>
 <a name="l00087"></a>00087 <span class="preprocessor">            expected_minor_version == CARNA_MINOR_VERSION &amp;&amp; \</span>
-<a name="l00088"></a>00088 <span class="preprocessor">            expected_release_version &gt;= CARNA_RELEASE_VERSION, \</span>
+<a name="l00088"></a>00088 <span class="preprocessor">            expected_patch_version &gt;= CARNA_PATCH_VERSION, \</span>
 <a name="l00089"></a>00089 <span class="preprocessor">            &quot;Incompatible Carna Version!&quot; );</span>
 <a name="l00090"></a>00090 <span class="preprocessor"></span>
 <a name="l00091"></a>00091 
