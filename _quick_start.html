@@ -102,6 +102,7 @@ function toggleVisibility(linkObj) {
 </div>
 <div class="contents">
 <div class="textblock"><p>On this page you will find some <a class="el" href="_quick_start.html#OverallDesign">introducting notes on the overall design</a> of the framework, along with several code snippets that are supposed to run out-of-the-box. Refer to <a class="el" href="_creating_views.html">Creating your own visualizations?</a> if you are looking for an example on how to implement an own visualization or renderer.</p>
+<dl class="note"><dt><b>Note:</b></dt><dd>Carna is a visualization framework, hence it is not responsible of <em>loading</em> the data. Several ways of accomplishing this are described <a class="el" href="class_carna_1_1base_1_1model_1_1_scene.html#Scene_Instantiation">here</a>. To achieve maximum simlicity, the examples below all use the additional class <code>DicomSceneFactory</code> from the <a href="https://github.com/RWTHmediTEC/Carna-DICOM"><b>Carna-DICOM</b></a> package.</dd></dl>
 <p>This page offers these examples in particular:</p>
 <ul>
 <li><a class="el" href="_quick_start.html#MinimalExample">Minimal Example</a></li>
@@ -113,7 +114,7 @@ function toggleVisibility(linkObj) {
 <dl class="see"><dt><b>See also:</b></dt><dd><a class="el" href="_quick_start.html#QuickStartLifetimes">Objects Lifetime Considerations</a> at the bottom of this page.</dd></dl>
 <h2><a class="anchor" id="OverallDesign"></a>
 Overall Design Notes</h2>
-<p>The overall framework design is characterized by the MVC pattern. The model is to be unterstood as one loaded CT dataset. Controllers are such components that define the interaction behavior of visalizations. Beside of exactly one controller, each visualization is made up by a renderer, representing the view in the MVC context.</p>
+<p>The overall framework design is characterized by the MVC pattern. The <em>model</em> is to be unterstood as one loaded CT dataset. <em>Controllers</em> are such components that define the interaction behavior of visalizations. Beside of exactly one controller, each visualization is made up by a renderer, representing the <em>view</em> in the MVC context.</p>
 <p>It is an important contribution of the MVC pattern, that models, views and controllers are generally interchangable. However, there are some restrictions to keep in mind. For example, the expected interaction behavior of a 3D volume rendering is different from that of a MPR: The latter one must allow the intuitive displacement of the planes, using drag-and-drop-like behavior. Therefore, the MPR controller must expect the renderer's interface to provide methods in order to access the planes' state.</p>
 <p>This is the motivation behind abstract renderer interfaces, which were introduced in <a class="el" href="_version_log.html#v_2_3">API Version 2.3</a>. For example, the <a class="el" href="class_carna_1_1_m_p_r_1_1_axial_plane_renderer.html">AxialPlaneRenderer</a> is an abstract generalization of the <a class="el" href="class_carna_1_1_m_p_r_1_1_default_axial_plane_renderer.html">DefaultAxialPlaneRenderer</a> class, that defines as less logic as possible. Since the <a class="el" href="class_carna_1_1_m_p_r_1_1_axial_plane_controller.html">AxialPlaneController</a> depends on this minimal interface, it is possible to use the controller with any custom renderer implementation, the only requirement being that the renderer supports the interface defined by the abstract generalization.</p>
 <dl class="note"><dt><b>Note:</b></dt><dd>Always use the abstract renderer classes instead of the concrete implementations. This keeps flexibility high and the efforts for any future renderer customizations low.</dd></dl>
@@ -129,7 +130,7 @@ Illustration of the renderings produced by the code in this example</div></div>
 <span class="preprocessor"> #include &lt;<a class="code" href="_x_ray_8h.html" title="Defines Carna::VolumeRenderings::DRR::XRay.">Carna/VolumeRenderings/DRR/XRay.h</a>&gt;</span>
 <span class="preprocessor"> #include &lt;<a class="code" href="_volume_renderer_8h.html" title="Defines Carna::VolumeRenderings::VolumeRenderer.">Carna/VolumeRenderings/VolumeRenderer.h</a>&gt;</span>
 <span class="preprocessor"> #include &lt;<a class="code" href="_default_volume_visualization_8h.html" title="Defines Carna::VolumeRenderings::DefaultVolumeVisualization.">Carna/VolumeRenderings/DefaultVolumeVisualization.h</a>&gt;</span>
-<span class="preprocessor"> #include &lt;<a class="code" href="_scene_factory_8h.html" title="Defines Carna::base::model::SceneFactory.">Carna/base/model/SceneFactory.h</a>&gt;</span>
+<span class="preprocessor"> #include &lt;Carna/dicom/DicomSceneFactory.h&gt;</span>
 <span class="preprocessor"> #include &lt;<a class="code" href="_scene_8h.html" title="Defines Carna::base::model::Scene.">Carna/base/model/Scene.h</a>&gt;</span>
 <span class="preprocessor"> #include &lt;<a class="code" href="_scene_provider_8h.html" title="Defines Carna::base::view::SceneProvider.">Carna/base/view/SceneProvider.h</a>&gt;</span>
 <span class="preprocessor"> #include &lt;<a class="code" href="_display_8h.html" title="Defines Carna::base::qt::Display.">Carna/base/qt/Display.h</a>&gt;</span>
@@ -140,8 +141,7 @@ Illustration of the renderings produced by the code in this example</div></div>
 
   <span class="comment">// create data model</span>
 
-     <a class="code" href="class_carna_1_1base_1_1model_1_1_scene_factory.html" title="Offers Scene instantiating with little effort.">Carna::base::model::SceneFactory</a> modelFactory;
-
+     Carna::dicom::DicomSceneFactory modelFactory;
      std::unique_ptr&lt; Carna::base::model::Scene &gt; scene( modelFactory.createFromUserInput() );
      <span class="keywordflow">if</span>( scene.get() == nullptr )
      {
@@ -150,7 +150,8 @@ Illustration of the renderings produced by the code in this example</div></div>
 
   <span class="comment">// create view</span>
  
-     <a class="code" href="class_carna_1_1_volume_renderings_1_1_volume_visualization.html" title="Abstract implementation of the Visualization class that is supposed to perform volume rendering using...">Carna::VolumeRenderings::VolumeVisualization</a>* <span class="keyword">const</span> view = <span class="keyword">new</span> <a class="code" href="class_carna_1_1_volume_renderings_1_1_default_volume_visualization.html" title="Visualization that performs volume rendering.">Carna::VolumeRenderings::DefaultVolumeVisualization</a>();
+     <a class="code" href="class_carna_1_1_volume_renderings_1_1_volume_visualization.html" title="Abstract implementation of the Visualization class that is supposed to perform volume rendering using...">Carna::VolumeRenderings::VolumeVisualization</a>* <span class="keyword">const</span> view
+            = <span class="keyword">new</span> <a class="code" href="class_carna_1_1_volume_renderings_1_1_default_volume_visualization.html" title="Visualization that performs volume rendering.">Carna::VolumeRenderings::DefaultVolumeVisualization</a>();
 
   <span class="comment">// setup renderer</span>
 
@@ -209,7 +210,7 @@ Lamda Closures</h3>
 <p>Using <code>[this]</code> closure will capture the enclosing class' <code>this</code> pointer (by value) particularly.</p>
 <h3><a class="anchor" id="Exceptions"></a>
 Error Handling</h3>
-<p>Remember that Carna does use exceptions for error handling, therefore, you should take care of catching them when using Carna. The most simplest way of accomplishing this is using <a class="el" href="class_carna_1_1base_1_1_application.html">Carna::base::Application</a> instead of QApplication: When doing so, all exceptions - that are not catched anyway - will be reported to the user as alert dialogs: you can still catch any specific exceptions on your own and process them in any way you like when using <a class="el" href="class_carna_1_1base_1_1_application.html">Carna::base::Application</a>. All further examples on this page do use <a class="el" href="class_carna_1_1base_1_1_application.html">Carna::base::Application</a>.</p>
+<p>Remember that Carna does use exceptions for error handling, therefore, you should take care of catching them when using Carna. The most simple way of accomplishing this is using <a class="el" href="class_carna_1_1base_1_1_application.html">Carna::base::Application</a> instead of QApplication: When doing so, all exceptions - that are not catched in some other way - will be reported to the user as alert dialogs. You can still catch any specific exceptions on your own and process them in any way you like when using <a class="el" href="class_carna_1_1base_1_1_application.html">Carna::base::Application</a>. All further examples on this page do use <a class="el" href="class_carna_1_1base_1_1_application.html">Carna::base::Application</a>.</p>
 <h2><a class="anchor" id="FullExamples"></a>
 Full Examples</h2>
 <p>This section offers these examples:</p>
@@ -219,7 +220,7 @@ Full Examples</h2>
 <li><a class="el" href="_quick_start.html#MPRExample">MPR Example Code</a></li>
 </ul>
 <p>Take the below code snippet as a basic frame:</p>
-<div class="fragment"><pre class="fragment"><span class="preprocessor"> #include &lt;<a class="code" href="_scene_factory_8h.html" title="Defines Carna::base::model::SceneFactory.">Carna/base/model/SceneFactory.h</a>&gt;</span>
+<div class="fragment"><pre class="fragment"><span class="preprocessor"> #include &lt;Carna/dicom/DicomSceneFactory.h&gt;</span>
 <span class="preprocessor"> #include &lt;<a class="code" href="_scene_8h.html" title="Defines Carna::base::model::Scene.">Carna/base/model/Scene.h</a>&gt;</span>
 
  <span class="keyword">template</span>&lt; <span class="keyword">typename</span> Demo &gt;
@@ -229,8 +230,7 @@ Full Examples</h2>
 
   <span class="comment">// create data model</span>
 
-     <a class="code" href="class_carna_1_1base_1_1model_1_1_scene_factory.html" title="Offers Scene instantiating with little effort.">Carna::base::model::SceneFactory</a> sceneFactory;
-
+     Carna::dicom::DicomSceneFactory sceneFactory;
      std::unique_ptr&lt; Carna::base::model::Scene &gt; scene( sceneFactory.createFromUserInput() );
 
   <span class="comment">// run demo</span>

@@ -193,9 +193,13 @@ unsigned int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" hr
 </table>
 <hr/><a name="details" id="details"></a><h2>Detailed Description</h2>
 <div class="textblock"><p>Defines the data model. </p>
+<h2><a class="anchor" id="Scene_Model"></a>
+Data Model</h2>
 <p>The model's main purpose is to provide access to the <em>volume</em> <em>data:</em> this data consists of a scalar field, which is described by an associated <a class="el" href="class_carna_1_1base_1_1model_1_1_volume.html">Volume</a> object, and is enriched with some extra informations by the model, that is required for it's visualization, such as the distance between two neighbor voxels. These distances are measured in millimeters and called <em>spacing</em>. Furthermore it is the purpose of the data model to suggest a global windowing, which however does not have to be taken into account by a specific view. A single <code>Scene</code> instance can be used by any number of views.</p>
 <p>Besides volume data, the spacing and windowing, the data model can be used to provide additional, custom geometries: these are represented by a set of <a class="el" href="class_carna_1_1base_1_1model_1_1_object3_d.html">3D objects</a>.</p>
 <p>It is explicitly not possible to switch the model assigned to a view during the view's lifetime. If this is necessary, the view must be re-instantiated.</p>
+<h2><a class="anchor" id="Scene_Instantiation"></a>
+Loading Data</h2>
 <p>There are two ways of creating a <code>Scene</code> instance:</p>
 <ol type="1">
 <li>Either you can use one of the pre-defined routines of the <a class="el" href="class_carna_1_1base_1_1model_1_1_scene_factory.html">SceneFactory</a>, or</li>
@@ -221,7 +225,7 @@ unsigned int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" hr
          ( <span class="keyword">new</span> <a class="code" href="namespace_carna_1_1base_1_1model.html#a60110555ef193fd16a81d4c1cbc7b709" title="Defines 16bit unsigned integer volume data.">UInt16Volume</a>( Vector3ui( 128, 128, 128 ) ) )
          , spacingXY, spacingXY, <a class="code" href="class_carna_1_1base_1_1model_1_1_scene.html#ae9658b2999aca427379c5c7e885fc56e" title="Tells the distance between two voxels in millimeters.">spacingZ</a> );
 
- <span class="comment">// using SceneFactory from Carna-DICOM project (1)</span>
+ <span class="comment">// using DicomSceneFactory from Carna-DICOM project (1)</span>
  <span class="comment">// https://github.com/RWTHmediTEC/Carna-DICOM</span>
 
  <span class="keyword">using</span> Carna::dicom::DicomSceneFactory;
@@ -231,7 +235,7 @@ unsigned int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" hr
 </pre></div><dl class="author"><dt><b>Author:</b></dt><dd>Leonid Kostrykin </dd></dl>
 <dl class="date"><dt><b>Date:</b></dt><dd>26.10.11 - 15.3.13 </dd></dl>
 
-<p>Definition at line <a class="el" href="_scene_8h_source.html#l00113">113</a> of file <a class="el" href="_scene_8h_source.html">Scene.h</a>.</p>
+<p>Definition at line <a class="el" href="_scene_8h_source.html#l00115">115</a> of file <a class="el" href="_scene_8h_source.html">Scene.h</a>.</p>
 </div><hr/><h2>Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="ab7f76f7957a8d2cb82910eebfe837c31"></a><!-- doxytag: member="Carna::base::model::Scene::Scene" ref="ab7f76f7957a8d2cb82910eebfe837c31" args="(Association&lt; Volume &gt; *volume, float spacingX, float spacingY, float spacingZ)" -->
 <div class="memitem">
@@ -348,7 +352,7 @@ unsigned int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" hr
 <p>References a particular 3D object. </p>
 <dl class="pre"><dt><b>Precondition:</b></dt><dd><code>index &lt; <a class="el" href="class_carna_1_1base_1_1model_1_1_scene.html#ad60727cc0679126692e87cd3b909b0e7" title="Returns number of 3D objects associated with this model.">objectsCount()</a></code> </dd></dl>
 
-<p>Definition at line <a class="el" href="_scene_8h_source.html#l00272">272</a> of file <a class="el" href="_scene_8h_source.html">Scene.h</a>.</p>
+<p>Definition at line <a class="el" href="_scene_8h_source.html#l00274">274</a> of file <a class="el" href="_scene_8h_source.html">Scene.h</a>.</p>
 
 </div>
 </div>
