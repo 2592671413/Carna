@@ -254,10 +254,10 @@ Getting Started</h2>
  {
      <a class="code" href="class_carna_1_1base_1_1view_1_1_polyline.html" title="Defines a sequence of multiple continuous straight line segments.">Polyline</a>* <span class="keyword">const</span> line = <span class="keyword">new</span> <a class="code" href="class_carna_1_1base_1_1view_1_1_polyline.html#a0327ba7fc4630386b38c1d2dfecf4712" title="Instantiates with default color.">Polyline</a>( model, <a class="code" href="class_carna_1_1base_1_1view_1_1_polyline.html#aba0000257ded1b4a6ddad91974301a8eadbb872af3849b8d26ade7f524443f2e8" title="Line segment is painted from last vertex to first.">Polyline::lineLoop</a> );
 
-     ( *line ) &lt;&lt; Position::fromVolumeSpace( model, 0, 0, 0 )
-               &lt;&lt; Position::fromVolumeSpace( model, 1, 0, 0 )
-               &lt;&lt; Position::fromVolumeSpace( model, 1, 1, 0 )
-               &lt;&lt; Position::fromVolumeSpace( model, 0, 1, 0 );
+     ( *line ) &lt;&lt; Position::fromVolumeUnits( model, 0, 0, 0 )
+               &lt;&lt; Position::fromVolumeUnits( model, 1, 0, 0 )
+               &lt;&lt; Position::fromVolumeUnits( model, 1, 1, 0 )
+               &lt;&lt; Position::fromVolumeUnits( model, 0, 1, 0 );
 
      <span class="keywordflow">return</span> line;
  }
@@ -270,15 +270,15 @@ Getting Started</h2>
      <a class="code" href="class_carna_1_1base_1_1view_1_1_polyline.html" title="Defines a sequence of multiple continuous straight line segments.">Polyline</a>* <span class="keyword">const</span> line = <span class="keyword">new</span> <a class="code" href="class_carna_1_1base_1_1view_1_1_polyline.html#a0327ba7fc4630386b38c1d2dfecf4712" title="Instantiates with default color.">Polyline</a>( model, <a class="code" href="class_carna_1_1base_1_1view_1_1_polyline.html#aba0000257ded1b4a6ddad91974301a8eadbb872af3849b8d26ade7f524443f2e8" title="Line segment is painted from last vertex to first.">Polyline::lineLoop</a> );
 
      <a class="code" href="class_carna_1_1base_1_1view_1_1_polyline3_d_vertex.html" title="Represents a polyline vertex in 3D space.">Polyline3DVertex</a>&amp; sharedVertex = *<span class="keyword">new</span> Carna::Polyline3DVertex( model,
-             Position::fromVolumeSpace( context.model, 0.5f, 0.5f, 0.5f ) );
+             Position::fromVolumeUnits( context.model, 0.5f, 0.5f, 0.5f ) );
 
-     ( *line ) &lt;&lt; Position::fromVolumeSpace( model, 0.5f, 0.5f, 0 );
+     ( *line ) &lt;&lt; Position::fromVolumeUnits( model, 0.5f, 0.5f, 0 );
      line-&gt;<a class="code" href="class_carna_1_1base_1_1view_1_1_polyline.html#aabf6f80e2825d688741e7068bc80f140" title="Appends a new vertex, using defaultNodeSize and defaultNodeColor.">appendVertex</a>( sharedVertex );
-     ( *line ) &lt;&lt; Position::fromVolumeSpace( model, 0.5f, 0.5f, 1 );
+     ( *line ) &lt;&lt; Position::fromVolumeUnits( model, 0.5f, 0.5f, 1 );
 
-     ( *line ) &lt;&lt; Position::fromVolumeSpace( model, 0, 0.5f, 0.5f );
+     ( *line ) &lt;&lt; Position::fromVolumeUnits( model, 0, 0.5f, 0.5f );
      line-&gt;<a class="code" href="class_carna_1_1base_1_1view_1_1_polyline.html#aabf6f80e2825d688741e7068bc80f140" title="Appends a new vertex, using defaultNodeSize and defaultNodeColor.">appendVertex</a>( sharedVertex );
-     ( *line ) &lt;&lt; Position::fromVolumeSpace( model, 1, 0.5f, 0.5f );
+     ( *line ) &lt;&lt; Position::fromVolumeUnits( model, 1, 0.5f, 0.5f );
 
      <span class="keywordflow">return</span> line;
  }
