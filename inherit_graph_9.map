@@ -1,3 +1,7 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_carna_1_1base_1_1_math.html" title="Provides set of math&#45;related helper functions." alt="" coords="6,5,135,32"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_carna_1_1base_1_1_base_buffer.html" title="Implements OpenGL buffer objects maintenance RAII base class. " alt="" coords="5,44,168,71"/>
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_index_buffer_base.html" title="Maintains GL_ELEMENT_ARRAY_BUFFER object that holds the vertex indices, that interconnect the vertice..." alt="" coords="220,16,415,43"/>
+<area shape="rect" id="node7" href="$class_carna_1_1base_1_1_vertex_buffer_base.html" title="Maintains GL_ARRAY_BUFFER object that holds vertices. This class realizes the RAII&#45;idiom. " alt="" coords="217,71,418,97"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_index_buffer.html" title="Specializes IndexBufferBase for particular IndexType. " alt="" coords="470,5,634,46"/>
+<area shape="rect" id="node9" href="$class_carna_1_1base_1_1_vertex_buffer.html" title="Specializes VertexBufferBase for particular VertexType. " alt="" coords="467,70,637,111"/>
 </map>

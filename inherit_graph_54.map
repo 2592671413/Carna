@@ -1,3 +1,19 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_carna_1_1base_1_1_vector3.html" title="Simple representation of 3D vectors." alt="" coords="5,5,181,32"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_carna_1_1base_1_1_mesh_rendering_stage_base.html" title="Defines MeshRenderingStage class template instance invariants. " alt="" coords="249,266,439,307"/>
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_mesh_rendering_stage.html" title="Implements a geometry rendering stage that renders meshes. " alt="" coords="517,207,715,249"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_mesh_rendering_stage.html" title="Carna::base::MeshRendering\lStage\&lt; base::Renderable\l::BackToFront \&gt;" alt="" coords="521,277,711,333"/>
+<area shape="rect" id="node7" href="$class_carna_1_1presets_1_1_transparent_rendering_stage.html" title="Implements rendering stage that renders transparent meshes. " alt="" coords="774,285,957,326"/>
+<area shape="rect" id="node8" href="$class_carna_1_1base_1_1_render_stage.html" title="Base abstract class of each rendering stage. Refer to the documentation of the rendering process..." alt="" coords="6,208,181,235"/>
+<area shape="rect" id="node10" href="$class_carna_1_1base_1_1_geometry_stage.html" title="Partially implements a rendering stage that uses at least one render queue for rendering geometry fro..." alt="" coords="249,201,439,242"/>
+<area shape="rect" id="node13" href="$class_carna_1_1presets_1_1_composition_stage.html" title="Defines rendering stage that combines two other renderings either by putting them next to each other ..." alt="" coords="251,135,437,177"/>
+<area shape="rect" id="node17" href="$class_carna_1_1presets_1_1_occluded_rendering_stage.html" title="Renders geometry that is actually depth&#45;occluded. The occluded geometry is rendered with reduced opac..." alt="" coords="259,331,429,373"/>
+<area shape="rect" id="node19" href="$class_carna_1_1base_1_1_geometry_stage.html" title="Carna::base::GeometryStage\l\&lt; base::Renderable::BackToFront \&gt;" alt="" coords="229,397,459,438"/>
+<area shape="rect" id="node30" href="$class_carna_1_1base_1_1_geometry_stage.html" title="Carna::base::GeometryStage\l\&lt; void \&gt;" alt="" coords="249,70,439,111"/>
+<area shape="rect" id="node15" href="$class_carna_1_1presets_1_1_parallax_stage.html" title="Produces stereoscopic renderings. " alt="" coords="535,135,697,177"/>
+<area shape="rect" id="node21" href="$class_carna_1_1presets_1_1_volume_rendering_stage.html" title="Defines abstract base class for rendering stages that render volume geometries in the scene..." alt="" coords="507,397,725,438"/>
+<area shape="rect" id="node23" href="$class_carna_1_1presets_1_1_d_r_r_stage.html" title="Renders digital radiograph reconstructs of volume geometries in the scene. " alt="" coords="777,404,953,431"/>
+<area shape="rect" id="node25" href="$class_carna_1_1presets_1_1_d_v_r_stage.html" title="Performs direct volume renderings of the volume geometries in the scene. " alt="" coords="777,455,953,481"/>
+<area shape="rect" id="node27" href="$class_carna_1_1presets_1_1_m_i_p_stage.html" title="Renders maximum intensity projections of volume geometries in the scene. " alt="" coords="779,353,951,380"/>
+<area shape="rect" id="node32" href="$class_carna_1_1presets_1_1_cutting_planes_stage.html" title="Renders cutting planes of volume geometries in the scene. " alt="" coords="518,5,714,46"/>
+<area shape="rect" id="node34" href="$class_carna_1_1presets_1_1_mesh_color_coding_stage.html" title="Implements a simple interface for mapping frame coordinates to base::Mesh objects. " alt="" coords="527,70,705,111"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="Carna::base::Log::Writer" name="Carna::base::Log::Writer">
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_log_1_1_text_writer.html" title="Abstract implementation of the Writer interface, that formats log messages along with their severity ..." alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_log_1_1_std_writer.html" title="Writes fatal and error classified log messages to std::cerr and such classified as warning or debug t..." alt="" coords="8,155,192,181"/>
+</map>

@@ -1,3 +1,7 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_carna_1_1testing_1_1_histogram_class_detector_test.html" title="Unit&#45;test of the Carna::base::model::HistogramClassDetector class template." alt="" coords="5,5,283,32"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_carna_1_1base_1_1_volume_segment_normals_component.html" title="Represents the normal map component of an VolumeSegment object. " alt="" coords="5,171,253,227"/>
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_volume_segment.html" title="Represents a single volumetric data partition. " alt="" coords="359,5,643,61"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_volume_segment.html" title="Carna::base::VolumeSegment\l\&lt; typename HUTextureFactory\l\&lt; SegmentHUVolumeType, SegmentNormals\lVolumeType \&gt;::SegmentHUVolume, typename\l HUTextureFactory\&lt; SegmentHUVolumeType,\l SegmentNormalsVolumeType \&gt;::SegmentNormalsVolume \&gt;" alt="" coords="314,86,689,186"/>
+<area shape="rect" id="node7" href="$class_carna_1_1base_1_1_volume_segment.html" title="Carna::base::VolumeSegment\l\&lt; typename NormalsTextureFactory\l\&lt; SegmentHUVolumeType, SegmentNormalsVolume\lType \&gt;::SegmentHUVolume, typename NormalsTexture\lFactory\&lt; SegmentHUVolumeType, SegmentNormalsVolumeType\l \&gt;::SegmentNormalsVolume \&gt;" alt="" coords="301,210,701,310"/>
+<area shape="rect" id="node9" href="$class_carna_1_1base_1_1_volume_segment.html" title="Carna::base::VolumeSegment\l\&lt; typename TextureFactory\l::SegmentHUVolume, typename\l TextureFactory::SegmentNormalsVolume \&gt;" alt="" coords="363,334,640,405"/>
 </map>

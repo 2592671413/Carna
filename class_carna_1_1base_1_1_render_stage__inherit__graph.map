@@ -1,0 +1,17 @@
+<map id="Carna::base::RenderStage" name="Carna::base::RenderStage">
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_geometry_stage.html" title="Partially implements a rendering stage that uses at least one render queue for rendering geometry fro..." alt="" coords="249,5,439,46"/>
+<area shape="rect" id="node7" href="$class_carna_1_1presets_1_1_composition_stage.html" title="Defines rendering stage that combines two other renderings either by putting them next to each other ..." alt="" coords="251,70,437,111"/>
+<area shape="rect" id="node11" href="$class_carna_1_1presets_1_1_occluded_rendering_stage.html" title="Renders geometry that is actually depth&#45;occluded. The occluded geometry is rendered with reduced opac..." alt="" coords="259,135,429,177"/>
+<area shape="rect" id="node13" href="$class_carna_1_1base_1_1_geometry_stage.html" title="Carna::base::GeometryStage\l\&lt; base::Renderable::BackToFront \&gt;" alt="" coords="229,201,459,242"/>
+<area shape="rect" id="node27" href="$class_carna_1_1base_1_1_geometry_stage.html" title="Carna::base::GeometryStage\l\&lt; void \&gt;" alt="" coords="249,282,439,323"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_mesh_rendering_stage.html" title="Implements a geometry rendering stage that renders meshes. " alt="" coords="517,5,715,46"/>
+<area shape="rect" id="node9" href="$class_carna_1_1presets_1_1_parallax_stage.html" title="Produces stereoscopic renderings. " alt="" coords="535,70,697,111"/>
+<area shape="rect" id="node15" href="$class_carna_1_1presets_1_1_volume_rendering_stage.html" title="Defines abstract base class for rendering stages that render volume geometries in the scene..." alt="" coords="507,135,725,177"/>
+<area shape="rect" id="node23" href="$class_carna_1_1base_1_1_mesh_rendering_stage.html" title="Carna::base::MeshRendering\lStage\&lt; base::Renderable\l::BackToFront \&gt;" alt="" coords="521,201,711,257"/>
+<area shape="rect" id="node17" href="$class_carna_1_1presets_1_1_d_r_r_stage.html" title="Renders digital radiograph reconstructs of volume geometries in the scene. " alt="" coords="777,73,953,100"/>
+<area shape="rect" id="node19" href="$class_carna_1_1presets_1_1_d_v_r_stage.html" title="Performs direct volume renderings of the volume geometries in the scene. " alt="" coords="777,124,953,151"/>
+<area shape="rect" id="node21" href="$class_carna_1_1presets_1_1_m_i_p_stage.html" title="Renders maximum intensity projections of volume geometries in the scene. " alt="" coords="779,175,951,201"/>
+<area shape="rect" id="node25" href="$class_carna_1_1presets_1_1_transparent_rendering_stage.html" title="Implements rendering stage that renders transparent meshes. " alt="" coords="774,226,957,267"/>
+<area shape="rect" id="node29" href="$class_carna_1_1presets_1_1_cutting_planes_stage.html" title="Renders cutting planes of volume geometries in the scene. " alt="" coords="518,282,714,323"/>
+<area shape="rect" id="node31" href="$class_carna_1_1presets_1_1_mesh_color_coding_stage.html" title="Implements a simple interface for mapping frame coordinates to base::Mesh objects. " alt="" coords="527,347,705,389"/>
+</map>

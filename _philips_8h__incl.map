@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_renderer_8h.html" title="Defines Carna::base::view::Renderer." alt="" coords="482,80,664,107"/>
-<area shape="rect" id="node5" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="354,229,459,256"/>
-<area shape="rect" id="node9" href="$_transformation_8h.html" title="Defines Carna::base::Transformation, Carna::base::Vector, Carna::base::fetchModelViewMatrix, Carna::base::fetchProjectionMatrix. Also overloads glTranslate, glMultMatrix, glLoadMatrix." alt="" coords="163,155,351,181"/>
-<area shape="rect" id="node16" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="515,229,691,256"/>
-<area shape="rect" id="node18" href="$_association_8h.html" title="Defines Carna::base::Association." alt="" coords="427,155,597,181"/>
-</map>

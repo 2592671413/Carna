@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_carna_1_1base_1_1view_1_1_renderer.html" title="Represents the view component of a visualization and implements its rendering logic." alt="" coords="20,187,204,213"/>
-<area shape="rect" id="node4" href="$class_carna_1_1base_1_1view_1_1_scene_provider.html" title="Interfaces the data model from a view&#39;s perspective and provides graphical representations of model e..." alt="" coords="5,96,219,123"/>
-<area shape="rect" id="node6" href="$class_carna_1_1base_1_1model_1_1_scene.html" title="Defines the data model." alt="" coords="22,5,201,32"/>
-</map>

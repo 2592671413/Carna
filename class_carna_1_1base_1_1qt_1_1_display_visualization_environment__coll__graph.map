@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_carna_1_1base_1_1_visualization_environment.html" title="Provides interface that allows visualizations to interact with their environment." alt="" coords="5,5,251,32"/>
-<area shape="rect" id="node4" href="$class_carna_1_1base_1_1qt_1_1_display.html" title="Simple widget that&#39;s only purpose is embedding any given visualization into a Qt based user interface..." alt="" coords="275,5,437,32"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="Carna::base::ManagedTexture3DInterface" name="Carna::base::ManagedTexture3DInterface">
+<area shape="rect" id="node2" href="$class_carna_1_1base_1_1_geometry_feature_1_1_managed_interface.html" title="Represents an acquisition of the video resources from a particular GeometryFeature. This acquisition realizes the RAII idiom. " alt="" coords="5,97,205,138"/>
+<area shape="rect" id="node4" href="$class_carna_1_1base_1_1_geometry_feature.html" title="Represents &quot;components&quot; that are aggregated by Geometry objects. Closer description is given here..." alt="" coords="133,5,333,32"/>
+<area shape="rect" id="node6" href="$class_carna_1_1base_1_1_managed_texture3_d.html" title="Represents 3D OpenGL texture object whose lifetime is managed by instances of this class..." alt="" coords="230,104,441,131"/>
+</map>

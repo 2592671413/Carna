@@ -1,5 +1,5 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_association_8h.html" title="Defines Carna::base::Association." alt="" coords="61,80,232,107"/>
-<area shape="rect" id="node5" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="11,155,116,181"/>
-<area shape="rect" id="node9" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="141,155,317,181"/>
+<map id="include/Carna/base/Aggregation.h" name="include/Carna/base/Aggregation.h">
+<area shape="rect" id="node3" href="$_association_8h.html" title="Defines Carna::base::Association. " alt="" coords="72,96,243,123"/>
+<area shape="rect" id="node5" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="22,171,127,197"/>
+<area shape="rect" id="node11" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="152,171,328,197"/>
 </map>

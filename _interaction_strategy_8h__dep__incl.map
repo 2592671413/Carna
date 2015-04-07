@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_default_camera_controller_8h.html" title="Defines Carna::base::controller::DefaultCameraController." alt="" coords="57,80,401,107"/>
-<area shape="rect" id="node7" href="$_default_interaction_strategy_8h.html" title="Defines Carna::base::controller::DefaultInteractionStrategy." alt="" coords="429,80,784,107"/>
-<area shape="rect" id="node11" href="$_null_interaction_strategy_8h.html" title="Defines Carna::base::controller::NullInteractionStrategy." alt="" coords="808,80,1144,107"/>
-<area shape="rect" id="node5" href="$_volume_visualization_camera_controller_8h.html" title="Defines Carna::VolumeRenderings::VolumeVisualizationCameraController." alt="" coords="5,155,451,181"/>
-<area shape="rect" id="node9" href="$_axial_plane_controller_8h.html" title="Defines Carna::MPR::AxialPlaneController." alt="" coords="476,155,743,181"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_carna_1_1_slice_planes_1_1_slice_plane_renderer.html" title="Abstract Renderer specialization that is supposed to utilize the SlicePlane class for rendering slice..." alt="" coords="25,80,279,107"/>
-<area shape="rect" id="node4" href="$class_carna_1_1base_1_1view_1_1_renderer.html" title="Represents the view component of a visualization and implements its rendering logic." alt="" coords="60,5,244,32"/>
-</map>

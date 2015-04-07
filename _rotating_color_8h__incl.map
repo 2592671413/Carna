@@ -1,3 +1,7 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="19,80,124,107"/>
+<map id="include/Carna/base/RotatingColor.h" name="include/Carna/base/RotatingColor.h">
+<area shape="rect" id="node3" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="22,320,127,347"/>
+<area shape="rect" id="node9" href="$_color_8h.html" title="Defines Carna::base::Color. " alt="" coords="100,96,233,123"/>
+<area shape="rect" id="node12" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="115,171,291,197"/>
+<area shape="rect" id="node14" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="355,171,487,197"/>
+<area shape="rect" id="node17" href="$_carna_exception_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="165,245,360,272"/>
 </map>

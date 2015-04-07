@@ -1,0 +1,8 @@
+<map id="include/Carna/base/ManagedTexture3D.h" name="include/Carna/base/ManagedTexture3D.h">
+<area shape="rect" id="node3" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="124,336,229,363"/>
+<area shape="rect" id="node9" href="$_managed_texture3_d_interface_8h.html" title="Defines Carna::base::ManagedTexture3DInterface. " alt="" coords="377,97,572,138"/>
+<area shape="rect" id="node12" href="$_geometry_feature_8h.html" title="Defines Carna::base::GeometryFeature. " alt="" coords="690,187,893,213"/>
+<area shape="rect" id="node14" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="713,261,889,288"/>
+<area shape="rect" id="node19" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="240,187,372,213"/>
+<area shape="rect" id="node22" href="$_carna_exception_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="494,261,689,288"/>
+</map>

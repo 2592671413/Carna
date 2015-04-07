@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_carna_1_1base_1_1model_1_1_object3_d_selective_filter.html" title="Object3DFilter implementation which accepts or rejects objects based on a list." alt="" coords="280,5,621,32"/>
-<area shape="rect" id="node5" href="$class_carna_1_1base_1_1model_1_1_object3_d_uniform_filter.html" title="Object3DFilter implementation that either accepts or rejects all Object3D instances." alt="" coords="315,56,586,83"/>
-</map>

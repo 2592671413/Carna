@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node5" href="$class_carna_1_1base_1_1controller_1_1_object3_d_movement_intent_processor.html" title="Processes the user&#39;s intent to move Object3D instances." alt="" coords="805,5,1171,32"/>
-<area shape="rect" id="node7" href="$class_carna_1_1_m_p_r_1_1_intersection_movement_intent_processor.html" title="Maps base::controller::MovementIntent objects to calls to AxialPlaneRenderer::setIntersection." alt="" coords="829,56,1147,83"/>
-<area shape="rect" id="node2" href="$class_carna_1_1base_1_1controller_1_1_movement_intent_processor.html" title="Implementations of this abstract class process MovementIntent objects." alt="" coords="6,31,317,57"/>
-</map>

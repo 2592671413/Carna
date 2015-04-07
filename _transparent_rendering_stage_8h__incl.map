@@ -1,0 +1,30 @@
+<map id="include/Carna/presets/TransparentRenderingStage.h" name="include/Carna/presets/TransparentRenderingStage.h">
+<area shape="rect" id="node3" href="$_mesh_rendering_stage_8h.html" title="Defines Carna::base::MeshRenderingStage. " alt="" coords="1466,97,1648,138"/>
+<area shape="rect" id="node5" href="$_geometry_stage_8h.html" title="Defines Carna::base::GeometryStage. " alt="" coords="1460,187,1655,213"/>
+<area shape="rect" id="node76" href="$_renderable_8h.html" title="Defines Carna::base::Renderable. " alt="" coords="2089,336,2257,363"/>
+<area shape="rect" id="node98" href="$_render_state_8h.html" title="Defines Carna::base::RenderState. " alt="" coords="790,336,964,363"/>
+<area shape="rect" id="node103" href="$_render_task_8h.html" title="Defines Carna::base::RenderTask. " alt="" coords="2545,411,2716,437"/>
+<area shape="rect" id="node107" href="$_shader_uniform_8h_source.html" title="Carna/base/ShaderUniform.h" alt="" coords="1411,411,1599,437"/>
+<area shape="rect" id="node111" href="$_material_8h.html" title="Defines Carna::base::Material. " alt="" coords="405,336,555,363"/>
+<area shape="rect" id="node127" href="$_mesh_8h.html" title="Defines Carna::base::Mesh. " alt="" coords="2494,336,2628,363"/>
+<area shape="rect" id="node7" href="$_frame_renderer_8h.html" title="Defines Carna::base::FrameRenderer. " alt="" coords="1157,261,1349,288"/>
+<area shape="rect" id="node30" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="2079,485,2211,512"/>
+<area shape="rect" id="node53" href="$_render_stage_8h.html" title="Defines Carna::base::RenderStage. " alt="" coords="2189,411,2368,437"/>
+<area shape="rect" id="node58" href="$_render_queue_8h.html" title="Defines Carna::base::RenderQueue. " alt="" coords="1607,261,1789,288"/>
+<area shape="rect" id="node79" href="$_geometry_feature_8h.html" title="Defines Carna::base::GeometryFeature. " alt="" coords="833,411,1036,437"/>
+<area shape="rect" id="node9" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="1694,635,1799,661"/>
+<area shape="rect" id="node15" href="$_render_stage_sequence_8h.html" title="Defines Carna::base::RenderStageSequence. " alt="" coords="1098,336,1333,363"/>
+<area shape="rect" id="node18" href="$_aggregation_8h.html" title="Defines Carna::base::Aggregation. " alt="" coords="1113,411,1284,437"/>
+<area shape="rect" id="node23" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="656,560,832,587"/>
+<area shape="rect" id="node20" href="$_association_8h.html" title="Defines Carna::base::Association. " alt="" coords="947,485,1117,512"/>
+<area shape="rect" id="node33" href="$_carna_exception_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="144,560,339,587"/>
+<area shape="rect" id="node61" href="$_node_8h.html" title="Defines Carna::base::Node. " alt="" coords="1511,336,1644,363"/>
+<area shape="rect" id="node71" href="$_geometry_8h.html" title="Defines Carna::base::Geometry. " alt="" coords="1753,336,1913,363"/>
+<area shape="rect" id="node63" href="$_spatial_8h.html" title="Defines Carna::base::Spatial. " alt="" coords="1718,411,1860,437"/>
+<area shape="rect" id="node115" href="$_shader_manager_8h.html" title="Defines Carna::base::ShaderManager. " alt="" coords="328,411,523,437"/>
+<area shape="rect" id="node118" href="$_singleton_8h.html" title="Defines Carna::base::Singleton. " alt="" coords="347,485,504,512"/>
+<area shape="rect" id="node129" href="$_vertex_attributes_8h.html" title="Defines Carna::base::VertexAttributes. " alt="" coords="1461,560,1659,587"/>
+<area shape="rect" id="node133" href="$_vertex_buffer_8h.html" title="Defines Carna::base::VertexBuffer. " alt="" coords="2786,560,2960,587"/>
+<area shape="rect" id="node142" href="$_index_buffer_8h.html" title="Defines Carna::base::IndexBuffer. " alt="" coords="2595,560,2761,587"/>
+<area shape="rect" id="node136" href="$_base_buffer_8h.html" title="Defines Carna::base::BaseBuffer. " alt="" coords="2775,635,2941,661"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="include/Carna/base/GeometryFeature.h" name="include/Carna/base/GeometryFeature.h">
+<area shape="rect" id="node3" href="$_geometry_stage_8h.html" title="Defines Carna::base::GeometryStage. " alt="" coords="639,278,772,319"/>
+<area shape="rect" id="node34" href="$_managed_mesh_8h.html" title="Defines Carna::base::ManagedMesh. " alt="" coords="928,187,1061,229"/>
+<area shape="rect" id="node38" href="$_managed_mesh_interface_8h.html" title="Defines Carna::base::ManagedMeshInterface. " alt="" coords="796,97,967,138"/>
+<area shape="rect" id="node41" href="$_managed_texture3_d_8h.html" title="Defines Carna::base::ManagedTexture3D. " alt="" coords="1204,187,1353,229"/>
+<area shape="rect" id="node49" href="$_managed_texture3_d_interface_8h.html" title="Defines Carna::base::ManagedTexture3DInterface. " alt="" coords="1042,97,1240,138"/>
+<area shape="rect" id="node52" href="$_material_8h.html" title="Defines Carna::base::Material. " alt="" coords="376,187,509,229"/>
+<area shape="rect" id="node55" href="$_renderable_8h.html" title="Defines Carna::base::Renderable. " alt="" coords="639,97,772,138"/>
+<area shape="rect" id="node5" href="$_mesh_rendering_stage_8h.html" title="Defines Carna::base::MeshRenderingStage. " alt="" coords="350,369,511,410"/>
+<area shape="rect" id="node21" href="$_cutting_planes_stage_8h.html" title="Defines Carna::presets::CuttingPlanesStage. " alt="" coords="733,369,885,410"/>
+<area shape="rect" id="node23" href="$_mesh_color_coding_stage_8h.html" title="Defines Carna::presets::MeshColorCodingStage. " alt="" coords="536,369,709,410"/>
+<area shape="rect" id="node26" href="$_volume_rendering_stage_8h.html" title="Defines Carna::presets::VolumeRenderingStage. " alt="" coords="909,369,1083,410"/>
+<area shape="rect" id="node7" href="$_frame_renderer_helper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="543,459,705,501"/>
+<area shape="rect" id="node9" href="$_opaque_rendering_stage_8h.html" title="Defines Carna::presets::OpaqueRenderingStage. " alt="" coords="343,459,517,501"/>
+<area shape="rect" id="node17" href="$_transparent_rendering_stage_8h.html" title="Defines Carna::presets::TransparentRenderingStage. " alt="" coords="63,459,260,501"/>
+<area shape="rect" id="node11" href="$_mesh_color_coding_stage_test_8h_source.html" title="test/ModuleTests/MeshColor\lCodingStageTest.h" alt="" coords="445,550,632,591"/>
+<area shape="rect" id="node13" href="$_opaque_rendering_stage_test_8h_source.html" title="test/ModuleTests/OpaqueRendering\lStageTest.h" alt="" coords="657,550,887,591"/>
+<area shape="rect" id="node15" href="$_point_marker_helper_test_8h_source.html" title="test/ModuleTests/PointMarker\lHelperTest.h" alt="" coords="225,550,420,591"/>
+<area shape="rect" id="node19" href="$_transparent_rendering_stage_test_8h_source.html" title="test/ModuleTests/Transparent\lRenderingStageTest.h" alt="" coords="5,550,200,591"/>
+<area shape="rect" id="node28" href="$_d_r_r_stage_8h.html" title="Defines Carna::presets::DRRStage. " alt="" coords="739,459,887,501"/>
+<area shape="rect" id="node30" href="$_d_v_r_stage_8h.html" title="Defines Carna::presets::DVRStage. " alt="" coords="911,459,1059,501"/>
+<area shape="rect" id="node32" href="$_m_i_p_stage_8h.html" title="Defines Carna::presets::MIPStage. " alt="" coords="1083,459,1231,501"/>
+<area shape="rect" id="node36" href="$_mesh_factory_8h.html" title="Defines Carna::base::MeshFactory. " alt="" coords="928,278,1061,319"/>
+<area shape="rect" id="node43" href="$_buffered_vector_field_texture_8h.html" title="Defines Carna::base::BufferedVectorFieldTexture. " alt="" coords="1193,278,1385,319"/>
+<area shape="rect" id="node45" href="$_volume_grid_helper_details_8h.html" title="Defines Carna::helpers::details::VolumeGridHelper. " alt="" coords="1218,369,1400,410"/>
+<area shape="rect" id="node47" href="$_volume_grid_helper_8h.html" title="Defines Carna::helpers::VolumeGridHelper. " alt="" coords="1256,459,1403,501"/>
+<area shape="rect" id="node58" href="$_render_queue_8h.html" title="Defines Carna::base::RenderQueue. " alt="" coords="639,187,772,229"/>
+</map>

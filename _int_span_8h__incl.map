@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_span_8h.html" title="Defines Carna::base::Span." alt="" coords="145,80,279,107"/>
-<area shape="rect" id="node5" href="$_math_8h.html" title="Defines Carna::base::Math." alt="" coords="146,155,277,181"/>
-<area shape="rect" id="node7" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="11,304,116,331"/>
-<area shape="rect" id="node11" href="$_transformation_8h.html" title="Defines Carna::base::Transformation, Carna::base::Vector, Carna::base::fetchModelViewMatrix, Carna::base::fetchProjectionMatrix. Also overloads glTranslate, glMultMatrix, glLoadMatrix." alt="" coords="118,229,305,256"/>
-</map>

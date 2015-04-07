@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_movement_intent_processor_8h.html" title="Defines Carna::base::controller::MovementIntentProcessor." alt="" coords="5,80,315,107"/>
-<area shape="rect" id="node9" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="340,80,516,107"/>
-<area shape="rect" id="node11" href="$_transformation_8h.html" title="Defines Carna::base::Transformation, Carna::base::Vector, Carna::base::fetchModelViewMatrix, Carna::base::fetchProjectionMatrix. Also overloads glTranslate, glMultMatrix, glLoadMatrix." alt="" coords="541,80,728,107"/>
-<area shape="rect" id="node5" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="223,155,328,181"/>
-</map>

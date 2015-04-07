@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_carna_1_1_volume_renderings_1_1_m_i_p_1_1_maximum_intensity_projection.html" title="VolumeRendererMode implementation that provides a maximum intensity projection." alt="" coords="363,5,739,32"/>
-<area shape="rect" id="node5" href="$class_carna_1_1_volume_renderings_1_1_volume_renderer_single_pass_mode.html" title="Abstract implementation of VolumeRendererMode, suitable for all further implementations which do requ..." alt="" coords="363,56,738,83"/>
-<area shape="rect" id="node7" href="$class_carna_1_1_volume_renderings_1_1_d_r_r_1_1_x_ray.html" title="VolumeRendererMode that implements Digital Radiograph Reconstruction (DRR)." alt="" coords="839,31,1086,57"/>
-<area shape="rect" id="node9" href="$class_carna_1_1_volume_renderings_1_1_d_v_r_1_1_direct_volume_rendering.html" title="VolumeRendererMode implementation which simulates light absorption on the basis of a color map..." alt="" coords="787,81,1139,108"/>
-</map>

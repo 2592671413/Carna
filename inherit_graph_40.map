@@ -1,3 +1,5 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_carna_1_1base_1_1qt_1_1_expandable_group_box.html" title="Widget container that is capable of hiding it&#39;s contents in order to save UI place." alt="" coords="5,5,251,32"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_carna_1_1base_1_1math_1_1_vector_field.html" title="Carna::base::math::\lVectorField\&lt; HUV \&gt;" alt="" coords="5,5,144,46"/>
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_h_u_volume.html" title="Defines interface to &#160;volumetric data. " alt="" coords="192,12,355,39"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_buffered_h_u_volume.html" title="Implements HUVolume generically for a particular VoxelType. " alt="" coords="403,5,613,46"/>
 </map>

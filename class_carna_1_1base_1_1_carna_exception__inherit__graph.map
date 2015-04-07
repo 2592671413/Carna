@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_assertion_failure.html" title="Carna exception that indicates a failed assertion." alt="" coords="5,80,200,107"/>
-<area shape="rect" id="node5" href="$class_carna_1_1base_1_1view_1_1_shader_compilation_error.html" title="Exception, that indicates that shader compilation has failed, and carries compilation information..." alt="" coords="224,80,493,107"/>
+<map id="Carna::base::CarnaException" name="Carna::base::CarnaException">
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_assertion_failure.html" title="Carna exception that indicates a failed assertion. " alt="" coords="5,88,200,115"/>
+<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_shader_compilation_error.html" title="Thrown when shader compilation fails. " alt="" coords="225,81,433,122"/>
 </map>

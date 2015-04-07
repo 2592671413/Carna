@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_carna_1_1base_1_1view_1_1_default_object3_d_painting_routine.html" title="Simple Object3D painting routing, based on model::Object3D::paint invocation." alt="" coords="332,5,649,32"/>
-<area shape="rect" id="node5" href="$class_carna_1_1base_1_1view_1_1_incremental_color_painting_routine.html" title="Object3D painting routing, drawing each in an unique color." alt="" coords="331,56,651,83"/>
-</map>

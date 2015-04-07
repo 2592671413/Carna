@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_volume_space_movement_intent_processor_8h.html" title="Defines Carna::base::controller::VolumeSpaceMovementIntentProcessor." alt="" coords="197,80,632,107"/>
-<area shape="rect" id="node5" href="$_object3_d_movement_intent_processor_8h.html" title="Defines Carna::base::controller::Object3DMovementIntentProcessor." alt="" coords="5,155,413,181"/>
-<area shape="rect" id="node7" href="$_intersection_movement_intent_processor_8h.html" title="Defines Carna::MPR::IntersectionMovementIntentProcessor." alt="" coords="438,155,804,181"/>
-</map>

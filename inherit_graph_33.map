@@ -1,4 +1,4 @@
-<map id="G" name="G">
-<area shape="rect" id="node1" href="$class_carna_1_1base_1_1noncopyable.html" title="Objects from classes inheriting this cannot be copied." alt="" coords="5,5,179,32"/>
-<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_parallelization.html" title="Performs a parallel job execution using specified worker class and user interface." alt="" coords="227,5,493,32"/>
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_carna_1_1base_1_1math_1_1_ray.html" title="Carna::base::math::\lRay\&lt; Vector3f \&gt;" alt="" coords="6,5,143,46"/>
+<area shape="rect" id="node3" href="$class_carna_1_1base_1_1math_1_1_ray3f.html" title="Defines ray in . " alt="" coords="193,5,330,46"/>
 </map>

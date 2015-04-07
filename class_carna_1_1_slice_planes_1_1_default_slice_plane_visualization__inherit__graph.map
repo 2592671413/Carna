@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_carna_1_1_slice_planes_1_1_slice_plane_visualization.html" title="Abstract implementation of the Visualization class that is supposed to visualize any custom slice pla..." alt="" coords="25,80,303,107"/>
-<area shape="rect" id="node4" href="$class_carna_1_1base_1_1_visualization.html" title="Combines one view (Renderer) and one controller (InteractionStrategy) object through composition..." alt="" coords="77,5,251,32"/>
-</map>

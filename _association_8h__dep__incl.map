@@ -1,29 +1,28 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_aggregation_8h.html" title="Defines Carna::base::Aggregation." alt="" coords="101,80,317,107"/>
-<area shape="rect" id="node5" href="$_composition_8h.html" title="Defines Carna::base::Composition." alt="" coords="342,80,561,107"/>
-<area shape="rect" id="node15" href="$_scene_8h.html" title="Defines Carna::base::model::Scene." alt="" coords="488,155,712,181"/>
-<area shape="rect" id="node34" href="$_renderer_8h.html" title="Defines Carna::base::view::Renderer." alt="" coords="1750,80,1977,107"/>
-<area shape="rect" id="node7" href="$_generic_volume_8h.html" title="Defines Carna::base::model::GenericVolume." alt="" coords="162,155,437,181"/>
-<area shape="rect" id="node9" href="$_u_int16_volume_8h.html" title="Defines Carna::base::model::UInt16Volume." alt="" coords="118,229,385,256"/>
-<area shape="rect" id="node11" href="$_u_int16_volume_base_worker_8h_source.html" title="include/Carna/base/model/UInt16VolumeBaseWorker.h" alt="" coords="5,304,344,331"/>
-<area shape="rect" id="node13" href="$_h_u_g_z_scene_factory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="369,304,580,331"/>
-<area shape="rect" id="node17" href="$_object3_d_8h.html" title="Defines Carna::base::model::Object3D." alt="" coords="631,304,872,331"/>
-<area shape="rect" id="node27" href="$_position_8h.html" title="Defines Carna::base::model::Position." alt="" coords="661,229,896,256"/>
-<area shape="rect" id="node31" href="$_h_u_i_o_8h_source.html" title="test/Tools/HUIO.h" alt="" coords="461,229,587,256"/>
-<area shape="rect" id="node19" href="$_rotatable_object3_d_8h.html" title="Defines Carna::base::model::RotatableObject3D." alt="" coords="461,379,757,405"/>
-<area shape="rect" id="node21" href="$_point3_d_8h.html" title="Defines Carna::base::view::Point3D." alt="" coords="782,379,1004,405"/>
-<area shape="rect" id="node23" href="$_polyline3_d_vertex_8h.html" title="Defines Carna::base::view::Polyline3DVertex." alt="" coords="755,453,1031,480"/>
-<area shape="rect" id="node25" href="$_polyline_8h.html" title="Defines Carna::base::view::Polyline." alt="" coords="782,528,1004,555"/>
-<area shape="rect" id="node36" href="$_monoscopic_8h.html" title="Defines Carna::base::view::Monoscopic." alt="" coords="1009,155,1255,181"/>
-<area shape="rect" id="node38" href="$_axial_plane_renderer_8h.html" title="Defines Carna::MPR::AxialPlaneRenderer." alt="" coords="1279,155,1541,181"/>
-<area shape="rect" id="node46" href="$_slice_plane_renderer_8h.html" title="Defines Carna::SlicePlanes::SlicePlaneRenderer." alt="" coords="1566,155,1868,181"/>
-<area shape="rect" id="node50" href="$_philips_8h.html" title="Defines Carna::stereoscopic::Philips." alt="" coords="1893,155,2125,181"/>
-<area shape="rect" id="node52" href="$_zalman_8h.html" title="Defines Carna::stereoscopic::Zalman." alt="" coords="2150,155,2385,181"/>
-<area shape="rect" id="node54" href="$_volume_renderer_8h.html" title="Defines Carna::VolumeRenderings::VolumeRenderer." alt="" coords="2411,155,2736,181"/>
-<area shape="rect" id="node58" href="$_my_visualization_8h_source.html" title="test/Tools/MyVisualization.h" alt="" coords="2760,155,2947,181"/>
-<area shape="rect" id="node40" href="$_default_axial_plane_renderer_8h.html" title="Defines Carna::MPR::DefaultAxialPlaneRenderer." alt="" coords="921,229,1223,256"/>
-<area shape="rect" id="node42" href="$_default_axial_plane_visualization_8h.html" title="Defines Carna::MPR::DefaultAxialPlaneVisualization." alt="" coords="1248,229,1573,256"/>
-<area shape="rect" id="node44" href="$_intersection_synchronisation_factory_8h.html" title="Defines Carna::MPR::IntersectionSynchronisationFactory." alt="" coords="1598,229,1951,256"/>
-<area shape="rect" id="node48" href="$_default_slice_plane_renderer_8h.html" title="Defines Carna::SlicePlanes::DefaultSlicePlaneRenderer." alt="" coords="1975,229,2317,256"/>
-<area shape="rect" id="node56" href="$_default_volume_renderer_8h.html" title="Defines Carna::VolumeRenderings::DefaultVolumeRenderer." alt="" coords="2391,229,2756,256"/>
+<map id="include/Carna/base/Association.h" name="include/Carna/base/Association.h">
+<area shape="rect" id="node3" href="$_aggregation_8h.html" title="Defines Carna::base::Aggregation. " alt="" coords="213,97,347,138"/>
+<area shape="rect" id="node43" href="$_composition_8h.html" title="Defines Carna::base::Composition. " alt="" coords="412,97,545,138"/>
+<area shape="rect" id="node55" href="$_volume_segment_8h.html" title="Defines Carna::base::VolumeSegment. " alt="" coords="793,97,927,138"/>
+<area shape="rect" id="node5" href="$_frame_renderer_8h.html" title="Defines Carna::base::FrameRenderer. " alt="" coords="251,278,384,319"/>
+<area shape="rect" id="node27" href="$_mesh_color_coding_stage_8h.html" title="Defines Carna::presets::MeshColorCodingStage. " alt="" coords="127,459,300,501"/>
+<area shape="rect" id="node38" href="$_render_stage_sequence_8h.html" title="Defines Carna::base::RenderStageSequence. " alt="" coords="5,187,176,229"/>
+<area shape="rect" id="node7" href="$_geometry_stage_8h.html" title="Defines Carna::base::GeometryStage. " alt="" coords="339,369,472,410"/>
+<area shape="rect" id="node9" href="$_mesh_rendering_stage_8h.html" title="Defines Carna::base::MeshRenderingStage. " alt="" coords="325,459,485,501"/>
+<area shape="rect" id="node25" href="$_cutting_planes_stage_8h.html" title="Defines Carna::presets::CuttingPlanesStage. " alt="" coords="800,459,952,501"/>
+<area shape="rect" id="node30" href="$_volume_rendering_stage_8h.html" title="Defines Carna::presets::VolumeRenderingStage. " alt="" coords="603,459,776,501"/>
+<area shape="rect" id="node11" href="$_frame_renderer_helper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="8,550,171,591"/>
+<area shape="rect" id="node13" href="$_opaque_rendering_stage_8h.html" title="Defines Carna::presets::OpaqueRenderingStage. " alt="" coords="417,550,591,591"/>
+<area shape="rect" id="node21" href="$_transparent_rendering_stage_8h.html" title="Defines Carna::presets::TransparentRenderingStage. " alt="" coords="195,550,392,591"/>
+<area shape="rect" id="node15" href="$_mesh_color_coding_stage_test_8h_source.html" title="test/ModuleTests/MeshColor\lCodingStageTest.h" alt="" coords="294,641,481,682"/>
+<area shape="rect" id="node17" href="$_opaque_rendering_stage_test_8h_source.html" title="test/ModuleTests/OpaqueRendering\lStageTest.h" alt="" coords="507,641,736,682"/>
+<area shape="rect" id="node19" href="$_point_marker_helper_test_8h_source.html" title="test/ModuleTests/PointMarker\lHelperTest.h" alt="" coords="761,641,956,682"/>
+<area shape="rect" id="node23" href="$_transparent_rendering_stage_test_8h_source.html" title="test/ModuleTests/Transparent\lRenderingStageTest.h" alt="" coords="75,641,269,682"/>
+<area shape="rect" id="node32" href="$_d_r_r_stage_8h.html" title="Defines Carna::presets::DRRStage. " alt="" coords="615,550,763,591"/>
+<area shape="rect" id="node34" href="$_d_v_r_stage_8h.html" title="Defines Carna::presets::DVRStage. " alt="" coords="787,550,935,591"/>
+<area shape="rect" id="node36" href="$_m_i_p_stage_8h.html" title="Defines Carna::presets::MIPStage. " alt="" coords="959,550,1107,591"/>
+<area shape="rect" id="node45" href="$_buffered_h_u_volume_8h.html" title="Defines Carna::base::BufferedHUVolume. " alt="" coords="380,187,527,229"/>
+<area shape="rect" id="node49" href="$_buffered_normal_map3_d_8h.html" title="Defines Carna::base::BufferedNormalMap3D. " alt="" coords="551,187,717,229"/>
+<area shape="rect" id="node47" href="$_h_u_g_z_scene_factory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="408,285,619,312"/>
+<area shape="rect" id="node51" href="$_volume_grid_helper_details_8h.html" title="Defines Carna::helpers::details::VolumeGridHelper. " alt="" coords="665,278,847,319"/>
+<area shape="rect" id="node53" href="$_volume_grid_helper_8h.html" title="Defines Carna::helpers::VolumeGridHelper. " alt="" coords="812,369,959,410"/>
+<area shape="rect" id="node57" href="$_volume_grid_8h.html" title="Defines Carna::base::VolumeGrid. " alt="" coords="793,187,927,229"/>
 </map>

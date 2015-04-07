@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_carna_1_1base_1_1model_1_1_volume_histogram_volume_adapter.html" title="Defines an adapter that allows to access Volume objects using positions that are specified by the His..." alt="" coords="731,7,1163,33"/>
-<area shape="rect" id="node4" href="$class_carna_1_1base_1_1model_1_1_volume.html" title="Abstract definition of &#160;volumetric data." alt="" coords="360,7,547,33"/>
-<area shape="rect" id="node6" href="$class_carna_1_1base_1_1model_1_1_scalar_field.html" title="Carna::base::model::ScalarField\&lt; signed short \&gt;" alt="" coords="6,7,309,33"/>
-<area shape="rect" id="node8" href="$class_carna_1_1base_1_1model_1_1_histogram.html" title="Carna::base::model::Histogram\&lt; CounterType, VolumeHistogramVolumeAdapter\&lt; CounterType \&gt;, 3u \&gt;" alt="" coords="637,57,1256,84"/>
-</map>

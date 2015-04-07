@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_carna_1_1_m_p_r_1_1_axial_plane_visualization.html" title="Abstract implementation of the Visualization class that is supposed to display the orthogonal interse..." alt="" coords="260,5,497,32"/>
-<area shape="rect" id="node7" href="$class_carna_1_1_slice_planes_1_1_slice_plane_visualization.html" title="Abstract implementation of the Visualization class that is supposed to visualize any custom slice pla..." alt="" coords="240,56,517,83"/>
-<area shape="rect" id="node11" href="$class_carna_1_1_volume_renderings_1_1_volume_visualization.html" title="Abstract implementation of the Visualization class that is supposed to perform volume rendering using..." alt="" coords="229,107,528,133"/>
-<area shape="rect" id="node5" href="$class_carna_1_1_m_p_r_1_1_default_axial_plane_visualization.html" title="Implementation of the AxialPlaneVisualization class that displays the orthogonal intersections &#160;of th..." alt="" coords="607,5,884,32"/>
-<area shape="rect" id="node9" href="$class_carna_1_1_slice_planes_1_1_default_slice_plane_visualization.html" title="Visualizes any custom slice planes using the SlicePlaneRenderer." alt="" coords="587,56,904,83"/>
-<area shape="rect" id="node13" href="$class_carna_1_1_volume_renderings_1_1_default_volume_visualization.html" title="Visualization that performs volume rendering." alt="" coords="576,107,915,133"/>
-</map>

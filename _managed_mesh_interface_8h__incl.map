@@ -1,0 +1,7 @@
+<map id="include/Carna/base/ManagedMeshInterface.h" name="include/Carna/base/ManagedMeshInterface.h">
+<area shape="rect" id="node3" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="198,245,303,272"/>
+<area shape="rect" id="node9" href="$_geometry_feature_8h.html" title="Defines Carna::base::GeometryFeature. " alt="" coords="147,96,351,123"/>
+<area shape="rect" id="node11" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="29,171,205,197"/>
+<area shape="rect" id="node16" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="534,96,665,123"/>
+<area shape="rect" id="node19" href="$_carna_exception_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="344,171,539,197"/>
+</map>

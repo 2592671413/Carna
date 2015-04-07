@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node5" href="$class_carna_1_1_m_p_r_1_1_default_slider_painter.html" title="Implementation of AbstractSliderPainter, that paints all sliders." alt="" coords="5,155,219,181"/>
-<area shape="rect" id="node7" href="$class_carna_1_1_m_p_r_1_1_partial_slider_painter.html" title="Implementation of AbstractSliderPainter, that paints only certain sliders, based on their orientation..." alt="" coords="243,155,455,181"/>
-<area shape="rect" id="node2" href="$class_carna_1_1_m_p_r_1_1_slider_painter.html" title="Abstract base class for plane sliders visualization." alt="" coords="143,5,317,32"/>
-</map>
