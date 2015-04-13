@@ -1,5 +1,0 @@
-<map id="Carna::base::ManagedMeshInterface" name="Carna::base::ManagedMeshInterface">
-<area shape="rect" id="node2" href="$class_carna_1_1base_1_1_geometry_feature_1_1_managed_interface.html" title="Represents an acquisition of the video resources from a particular GeometryFeature. This acquisition realizes the RAII idiom. " alt="" coords="5,97,205,138"/>
-<area shape="rect" id="node4" href="$class_carna_1_1base_1_1_geometry_feature.html" title="Represents &quot;components&quot; that are aggregated by Geometry objects. Closer description is given here..." alt="" coords="134,5,335,32"/>
-<area shape="rect" id="node6" href="$class_carna_1_1base_1_1_managed_mesh_base.html" title="Represents MeshBase object whose lifetime is managed by instances of this class. This is a format&#45;ind..." alt="" coords="230,104,444,131"/>
-</map>

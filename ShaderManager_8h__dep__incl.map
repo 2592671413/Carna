@@ -1,0 +1,11 @@
+<map id="include/Carna/base/ShaderManager.h" name="include/Carna/base/ShaderManager.h">
+<area shape="rect" id="node3" href="$Material_8h.html" title="Defines Carna::base::Material. " alt="" coords="328,102,461,149"/>
+<area shape="rect" id="node5" href="$MeshRenderingStage_8h.html" title="Defines Carna::base::MeshRenderingStage. " alt="" coords="313,198,476,245"/>
+<area shape="rect" id="node7" href="$FrameRendererHelper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="119,294,284,341"/>
+<area shape="rect" id="node9" href="$OpaqueRenderingStage_8h.html" title="Defines Carna::presets::OpaqueRenderingStage. " alt="" coords="308,294,481,341"/>
+<area shape="rect" id="node17" href="$TransparentRenderingStage_8h.html" title="Defines Carna::presets::TransparentRenderingStage. " alt="" coords="629,294,827,341"/>
+<area shape="rect" id="node11" href="$MeshColorCodingStageTest_8h_source.html" title="test/ModuleTests/MeshColor\lCodingStageTest.h" alt="" coords="5,390,195,437"/>
+<area shape="rect" id="node13" href="$OpaqueRenderingStageTest_8h_source.html" title="test/ModuleTests/OpaqueRendering\lStageTest.h" alt="" coords="219,390,448,437"/>
+<area shape="rect" id="node15" href="$PointMarkerHelperTest_8h_source.html" title="test/ModuleTests/PointMarker\lHelperTest.h" alt="" coords="472,390,669,437"/>
+<area shape="rect" id="node19" href="$TransparentRenderingStageTest_8h_source.html" title="test/ModuleTests/Transparent\lRenderingStageTest.h" alt="" coords="693,390,888,437"/>
+</map>

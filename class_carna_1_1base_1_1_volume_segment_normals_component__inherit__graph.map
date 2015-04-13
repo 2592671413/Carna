@@ -1,6 +1,0 @@
-<map id="Carna::base::VolumeSegmentNormalsComponent&lt; SegmentNormalsVolumeType &gt;" name="Carna::base::VolumeSegmentNormalsComponent&lt; SegmentNormalsVolumeType &gt;">
-<area shape="rect" id="node3" href="$class_carna_1_1base_1_1_volume_segment.html" title="Represents a single volumetric data partition. " alt="" coords="396,5,615,46"/>
-<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_volume_segment.html" title="VolumeSegment\&lt; typename\l HUTextureFactory\&lt; SegmentHUVolume\lType, SegmentNormalsVolumeType\l \&gt;::SegmentHUVolume, typename HUTextureFactory\l\&lt; SegmentHUVolumeType, SegmentNormalsVolumeType\l \&gt;::SegmentNormalsVolume \&gt;" alt="" coords="327,70,683,170"/>
-<area shape="rect" id="node7" href="$class_carna_1_1base_1_1_volume_segment.html" title="VolumeSegment\&lt; typename\l NormalsTextureFactory\l\&lt; SegmentHUVolumeType,\l SegmentNormalsVolumeType\l \&gt;::SegmentHUVolume, typename\l NormalsTextureFactory\&lt; SegmentHUVolume\lType, SegmentNormalsVolumeType \&gt;::SegmentNormalsVolume \&gt;" alt="" coords="302,195,709,309"/>
-<area shape="rect" id="node9" href="$class_carna_1_1base_1_1_volume_segment.html" title="VolumeSegment\&lt; typename\l TextureFactory::SegmentHUVolume,\l typename TextureFactory::SegmentNormals\lVolume \&gt;" alt="" coords="364,334,647,405"/>
-</map>

@@ -1,0 +1,10 @@
+<map id="include/Carna/base/VolumeSegment.h" name="include/Carna/base/VolumeSegment.h">
+<area shape="rect" id="node3" href="$Carna_8h_source.html" title="Carna/Carna.h" alt="" coords="236,488,343,517"/>
+<area shape="rect" id="node9" href="$Association_8h.html" title="Defines Carna::base::Association. " alt="" coords="5,179,176,208"/>
+<area shape="rect" id="node14" href="$CarnaException_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="811,411,1008,440"/>
+<area shape="rect" id="node25" href="$VolumeGrid_8h.html" title="Defines Carna::base::VolumeGrid. " alt="" coords="411,101,581,131"/>
+<area shape="rect" id="node12" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="301,256,477,285"/>
+<area shape="rect" id="node28" href="$HUVolume_8h.html" title="Defines Carna::base::HUVolume. " alt="" coords="412,179,580,208"/>
+<area shape="rect" id="node30" href="$VectorField_8h.html" title="Defines Carna::base::math::VectorField. " alt="" coords="501,256,704,285"/>
+<area shape="rect" id="node32" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="536,333,669,363"/>
+</map>

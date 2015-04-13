@@ -1,4 +1,0 @@
-<map id="Carna::base::ManagedTexture3D" name="Carna::base::ManagedTexture3D">
-<area shape="rect" id="node5" href="$class_carna_1_1base_1_1_buffered_vector_field_texture.html" title="Specializes the ManagedTexture3D class s.t. the texture&#39;s data is initialized from a math::VectorFiel..." alt="" coords="5,155,224,211"/>
-<area shape="rect" id="node2" href="$class_carna_1_1base_1_1_geometry_feature.html" title="Represents &quot;components&quot; that are aggregated by Geometry objects. Closer description is given here..." alt="" coords="14,5,215,32"/>
-</map>

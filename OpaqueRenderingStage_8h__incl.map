@@ -1,0 +1,30 @@
+<map id="include/Carna/presets/OpaqueRenderingStage.h" name="include/Carna/presets/OpaqueRenderingStage.h">
+<area shape="rect" id="node3" href="$MeshRenderingStage_8h.html" title="Defines Carna::base::MeshRenderingStage. " alt="" coords="1467,102,1651,149"/>
+<area shape="rect" id="node5" href="$GeometryStage_8h.html" title="Defines Carna::base::GeometryStage. " alt="" coords="1461,197,1656,227"/>
+<area shape="rect" id="node76" href="$Renderable_8h.html" title="Defines Carna::base::Renderable. " alt="" coords="2088,352,2259,381"/>
+<area shape="rect" id="node98" href="$RenderState_8h.html" title="Defines Carna::base::RenderState. " alt="" coords="789,352,965,381"/>
+<area shape="rect" id="node103" href="$RenderTask_8h.html" title="Defines Carna::base::RenderTask. " alt="" coords="2544,429,2717,459"/>
+<area shape="rect" id="node107" href="$ShaderUniform_8h_source.html" title="Carna/base/ShaderUniform.h" alt="" coords="1411,429,1600,459"/>
+<area shape="rect" id="node111" href="$Material_8h.html" title="Defines Carna::base::Material. " alt="" coords="405,352,555,381"/>
+<area shape="rect" id="node127" href="$Mesh_8h.html" title="Defines Carna::base::Mesh. " alt="" coords="2493,352,2629,381"/>
+<area shape="rect" id="node7" href="$FrameRenderer_8h.html" title="Defines Carna::base::FrameRenderer. " alt="" coords="1156,275,1351,304"/>
+<area shape="rect" id="node30" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="2079,507,2212,536"/>
+<area shape="rect" id="node53" href="$RenderStage_8h.html" title="Defines Carna::base::RenderStage. " alt="" coords="2189,429,2368,459"/>
+<area shape="rect" id="node58" href="$RenderQueue_8h.html" title="Defines Carna::base::RenderQueue. " alt="" coords="1607,275,1791,304"/>
+<area shape="rect" id="node79" href="$GeometryFeature_8h.html" title="Defines Carna::base::GeometryFeature. " alt="" coords="832,429,1037,459"/>
+<area shape="rect" id="node9" href="$Carna_8h_source.html" title="Carna/Carna.h" alt="" coords="1693,661,1800,691"/>
+<area shape="rect" id="node15" href="$RenderStageSequence_8h.html" title="Defines Carna::base::RenderStageSequence. " alt="" coords="1099,352,1336,381"/>
+<area shape="rect" id="node18" href="$Aggregation_8h.html" title="Defines Carna::base::Aggregation. " alt="" coords="1112,429,1285,459"/>
+<area shape="rect" id="node23" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="656,584,832,613"/>
+<area shape="rect" id="node20" href="$Association_8h.html" title="Defines Carna::base::Association. " alt="" coords="947,507,1117,536"/>
+<area shape="rect" id="node33" href="$CarnaException_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="144,584,341,613"/>
+<area shape="rect" id="node61" href="$Node_8h.html" title="Defines Carna::base::Node. " alt="" coords="1512,352,1645,381"/>
+<area shape="rect" id="node71" href="$Geometry_8h.html" title="Defines Carna::base::Geometry. " alt="" coords="1752,352,1912,381"/>
+<area shape="rect" id="node63" href="$Spatial_8h.html" title="Defines Carna::base::Spatial. " alt="" coords="1717,429,1861,459"/>
+<area shape="rect" id="node115" href="$ShaderManager_8h.html" title="Defines Carna::base::ShaderManager. " alt="" coords="328,429,523,459"/>
+<area shape="rect" id="node118" href="$Singleton_8h.html" title="Defines Carna::base::Singleton. " alt="" coords="347,507,504,536"/>
+<area shape="rect" id="node129" href="$VertexAttributes_8h.html" title="Defines Carna::base::VertexAttributes. " alt="" coords="1461,584,1659,613"/>
+<area shape="rect" id="node133" href="$VertexBuffer_8h.html" title="Defines Carna::base::VertexBuffer. " alt="" coords="2789,584,2965,613"/>
+<area shape="rect" id="node142" href="$IndexBuffer_8h.html" title="Defines Carna::base::IndexBuffer. " alt="" coords="2595,584,2765,613"/>
+<area shape="rect" id="node136" href="$BaseBuffer_8h.html" title="Defines Carna::base::BaseBuffer. " alt="" coords="2779,661,2947,691"/>
+</map>

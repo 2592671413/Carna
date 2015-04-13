@@ -1,0 +1,13 @@
+<map id="include/Carna/base/ManagedMesh.h" name="include/Carna/base/ManagedMesh.h">
+<area shape="rect" id="node3" href="$Mesh_8h.html" title="Defines Carna::base::Mesh. " alt="" coords="1253,179,1389,208"/>
+<area shape="rect" id="node31" href="$GeometryFeature_8h.html" title="Defines Carna::base::GeometryFeature. " alt="" coords="237,179,442,208"/>
+<area shape="rect" id="node37" href="$ManagedMeshInterface_8h.html" title="Defines Carna::base::ManagedMeshInterface. " alt="" coords="509,101,749,131"/>
+<area shape="rect" id="node5" href="$VertexAttributes_8h.html" title="Defines Carna::base::VertexAttributes. " alt="" coords="1222,256,1420,285"/>
+<area shape="rect" id="node14" href="$VertexBuffer_8h.html" title="Defines Carna::base::VertexBuffer. " alt="" coords="1444,256,1620,285"/>
+<area shape="rect" id="node23" href="$IndexBuffer_8h.html" title="Defines Carna::base::IndexBuffer. " alt="" coords="1644,256,1814,285"/>
+<area shape="rect" id="node7" href="$Carna_8h_source.html" title="Carna/Carna.h" alt="" coords="1268,333,1374,363"/>
+<area shape="rect" id="node17" href="$BaseBuffer_8h.html" title="Defines Carna::base::BaseBuffer. " alt="" coords="1442,333,1610,363"/>
+<area shape="rect" id="node33" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="198,256,374,285"/>
+<area shape="rect" id="node42" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="693,179,826,208"/>
+<area shape="rect" id="node45" href="$CarnaException_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="398,256,596,285"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="include/Carna/base/BufferedHUVolume.h" name="include/Carna/base/BufferedHUVolume.h">
+<area shape="rect" id="node3" href="$HUVolume_8h.html" title="Defines Carna::base::HUVolume. " alt="" coords="293,101,461,131"/>
+<area shape="rect" id="node15" href="$CarnaException_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="623,333,820,363"/>
+<area shape="rect" id="node37" href="$Composition_8h.html" title="Defines Carna::base::Composition. " alt="" coords="485,101,661,131"/>
+<area shape="rect" id="node5" href="$VectorField_8h.html" title="Defines Carna::base::math::VectorField. " alt="" coords="180,179,383,208"/>
+<area shape="rect" id="node35" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="372,256,548,285"/>
+<area shape="rect" id="node7" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="215,256,348,285"/>
+<area shape="rect" id="node9" href="$Carna_8h_source.html" title="Carna/Carna.h" alt="" coords="73,411,180,440"/>
+<area shape="rect" id="node39" href="$Association_8h.html" title="Defines Carna::base::Association. " alt="" coords="488,179,659,208"/>
+</map>

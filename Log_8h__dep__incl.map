@@ -1,0 +1,7 @@
+<map id="include/Carna/base/Log.h" name="include/Carna/base/Log.h">
+<area shape="rect" id="node3" href="$GLContext_8h.html" title="Defines Carna::base::GLContext. " alt="" coords="5,102,139,149"/>
+<area shape="rect" id="node5" href="$FrameRendererHelper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="41,198,207,245"/>
+<area shape="rect" id="node7" href="$glew_8h.html" title="Includes GL/glew.h and windows.h if _WIN32 is defined. Also defines the CARNA_GLEW_INIT macro..." alt="" coords="213,102,347,149"/>
+<area shape="rect" id="node10" href="$VolumeGridHelperDetails_8h.html" title="Defines Carna::helpers::details::VolumeGridHelper. " alt="" coords="371,102,555,149"/>
+<area shape="rect" id="node12" href="$VolumeGridHelper_8h.html" title="Defines Carna::helpers::VolumeGridHelper. " alt="" coords="389,198,536,245"/>
+</map>

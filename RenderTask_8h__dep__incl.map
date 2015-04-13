@@ -1,0 +1,10 @@
+<map id="include/Carna/base/RenderTask.h" name="include/Carna/base/RenderTask.h">
+<area shape="rect" id="node3" href="$MeshRenderingStage_8h.html" title="Defines Carna::base::MeshRenderingStage. " alt="" coords="313,102,476,149"/>
+<area shape="rect" id="node5" href="$FrameRendererHelper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="119,198,284,245"/>
+<area shape="rect" id="node7" href="$OpaqueRenderingStage_8h.html" title="Defines Carna::presets::OpaqueRenderingStage. " alt="" coords="308,198,481,245"/>
+<area shape="rect" id="node15" href="$TransparentRenderingStage_8h.html" title="Defines Carna::presets::TransparentRenderingStage. " alt="" coords="629,198,827,245"/>
+<area shape="rect" id="node9" href="$MeshColorCodingStageTest_8h_source.html" title="test/ModuleTests/MeshColor\lCodingStageTest.h" alt="" coords="5,294,195,341"/>
+<area shape="rect" id="node11" href="$OpaqueRenderingStageTest_8h_source.html" title="test/ModuleTests/OpaqueRendering\lStageTest.h" alt="" coords="219,294,448,341"/>
+<area shape="rect" id="node13" href="$PointMarkerHelperTest_8h_source.html" title="test/ModuleTests/PointMarker\lHelperTest.h" alt="" coords="472,294,669,341"/>
+<area shape="rect" id="node17" href="$TransparentRenderingStageTest_8h_source.html" title="test/ModuleTests/Transparent\lRenderingStageTest.h" alt="" coords="693,294,888,341"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="include/Carna/base/BufferedVectorFieldTexture.h" name="include/Carna/base/BufferedVectorFieldTexture.h">
+<area shape="rect" id="node3" href="$ManagedTexture3D_8h.html" title="Defines Carna::base::ManagedTexture3D. " alt="" coords="481,101,700,131"/>
+<area shape="rect" id="node46" href="$BufferedVectorFieldFormat_8h.html" title="Defines Carna::base::BufferedVectorFieldFormat. " alt="" coords="1051,179,1229,226"/>
+<area shape="rect" id="node5" href="$Carna_8h_source.html" title="Carna/Carna.h" alt="" coords="909,429,1016,459"/>
+<area shape="rect" id="node11" href="$ManagedTexture3DInterface_8h.html" title="Defines Carna::base::ManagedTexture3DInterface. " alt="" coords="405,179,603,226"/>
+<area shape="rect" id="node14" href="$GeometryFeature_8h.html" title="Defines Carna::base::GeometryFeature. " alt="" coords="72,275,277,304"/>
+<area shape="rect" id="node16" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="69,352,245,381"/>
+<area shape="rect" id="node21" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="592,275,725,304"/>
+<area shape="rect" id="node24" href="$CarnaException_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="269,352,467,381"/>
+</map>

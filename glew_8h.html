@@ -103,16 +103,16 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <p>Includes <code>GL/glew.h</code> and <code>windows.h</code> if <code>_WIN32</code> is defined. Also defines the <a class="el" href="glew_8h.html#ac8d1bb645d6b797ddc21a6b8dff3ad66">CARNA_GLEW_INIT</a> macro.  
 <a href="#details">More...</a></p>
-<div class="textblock"><code>#include &lt;<a class="el" href="_log_8h_source.html">Carna/base/Log.h</a>&gt;</code><br />
+<div class="textblock"><code>#include &lt;<a class="el" href="Log_8h_source.html">Carna/base/Log.h</a>&gt;</code><br />
 <code>#include &lt;GL/glew.h&gt;</code><br />
 </div><div class="textblock"><div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Include dependency graph for glew.h:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><img src="glew_8h__incl.png" border="0" usemap="#include_2_carna_2base_2glew_8h" alt=""/></div>
-<map name="include_2_carna_2base_2glew_8h" id="include_2_carna_2base_2glew_8h">
-<area shape="rect" id="node3" href="_log_8h.html" title="Defines Carna::base::Log. " alt="" coords="457,96,580,123"/><area shape="rect" id="node5" href="_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="22,320,127,347"/><area shape="rect" id="node11" href="_singleton_8h.html" title="Defines Carna::base::Singleton. " alt="" coords="299,171,456,197"/><area shape="rect" id="node24" href="noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="331,245,507,272"/><area shape="rect" id="node13" href="_carna_exception_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="112,245,307,272"/></map>
+<div class="center"><img src="glew_8h__incl.png" border="0" usemap="#include_2Carna_2base_2glew_8h" alt=""/></div>
+<map name="include_2Carna_2base_2glew_8h" id="include_2Carna_2base_2glew_8h">
+<area shape="rect" id="node3" href="Log_8h.html" title="Defines Carna::base::Log. " alt="" coords="460,101,585,131"/><area shape="rect" id="node5" href="Carna_8h_source.html" title="Carna/Carna.h" alt="" coords="23,333,129,363"/><area shape="rect" id="node11" href="Singleton_8h.html" title="Defines Carna::base::Singleton. " alt="" coords="303,179,460,208"/><area shape="rect" id="node24" href="noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="335,256,511,285"/><area shape="rect" id="node13" href="CarnaException_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="113,256,311,285"/></map>
 </div>
 </div>
 <p><a href="glew_8h_source.html">Go to the source code of this file.</a></p>
@@ -120,7 +120,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:ac8d1bb645d6b797ddc21a6b8dff3ad66"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="glew_8h.html#ac8d1bb645d6b797ddc21a6b8dff3ad66">CARNA_GLEW_INIT</a></td></tr>
-<tr class="memdesc:ac8d1bb645d6b797ddc21a6b8dff3ad66"><td class="mdescLeft">&#160;</td><td class="mdescRight">Invokes <code>glewInit</code> and raises an <a class="el" href="class_carna_1_1base_1_1_assertion_failure.html">AssertionFailure</a> if it fails.  <a href="#ac8d1bb645d6b797ddc21a6b8dff3ad66">More...</a><br /></td></tr>
+<tr class="memdesc:ac8d1bb645d6b797ddc21a6b8dff3ad66"><td class="mdescLeft">&#160;</td><td class="mdescRight">Invokes <code>glewInit</code> and raises an <a class="el" href="classCarna_1_1base_1_1AssertionFailure.html">AssertionFailure</a> if it fails.  <a href="#ac8d1bb645d6b797ddc21a6b8dff3ad66">More...</a><br /></td></tr>
 <tr class="separator:ac8d1bb645d6b797ddc21a6b8dff3ad66"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -140,16 +140,16 @@ Macros</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <b>Value:</b><div class="fragment"><div class="line">{ \</div>
-<div class="line">        const GLenum glew_state = glewInit(); <a class="code" href="_carna_exception_8h.html#a6ca91617487e21fad9536a151e1aa74f">\</a></div>
-<div class="line"><a class="code" href="_carna_exception_8h.html#a6ca91617487e21fad9536a151e1aa74f">        CARNA_ASSERT</a>( glew_state == GLEW_OK ); <a class="code" href="class_carna_1_1base_1_1_singleton.html#a1f55c4604dcdd90886fce91a27fb035a">\</a></div>
-<div class="line"><a class="code" href="class_carna_1_1base_1_1_singleton.html#a1f55c4604dcdd90886fce91a27fb035a">        Carna::base::Log::instance</a>().<a class="code" href="class_carna_1_1base_1_1_log.html#abad1663d1a275da6f5a64198c169556b">record</a>( <a class="code" href="class_carna_1_1base_1_1_log.html#a80ada39f636acf2cdb409c5256467937a3236115e0961973002d7b22ac0bc38fc">Carna::base::Log::debug</a>, <span class="stringliteral">&quot;GLEW initialized successfully.&quot;</span> ); \</div>
+<div class="line">        const GLenum glew_state = glewInit(); <a class="code" href="CarnaException_8h.html#a6ca91617487e21fad9536a151e1aa74f">\</a></div>
+<div class="line"><a class="code" href="CarnaException_8h.html#a6ca91617487e21fad9536a151e1aa74f">        CARNA_ASSERT</a>( glew_state == GLEW_OK ); <a class="code" href="classCarna_1_1base_1_1Singleton.html#a1f55c4604dcdd90886fce91a27fb035a">\</a></div>
+<div class="line"><a class="code" href="classCarna_1_1base_1_1Singleton.html#a1f55c4604dcdd90886fce91a27fb035a">        Carna::base::Log::instance</a>().<a class="code" href="classCarna_1_1base_1_1Log.html#abad1663d1a275da6f5a64198c169556b">record</a>( <a class="code" href="classCarna_1_1base_1_1Log.html#a80ada39f636acf2cdb409c5256467937a3236115e0961973002d7b22ac0bc38fc">Carna::base::Log::debug</a>, <span class="stringliteral">&quot;GLEW initialized successfully.&quot;</span> ); \</div>
 <div class="line">    }</div>
-<div class="ttc" id="_carna_exception_8h_html_a6ca91617487e21fad9536a151e1aa74f"><div class="ttname"><a href="_carna_exception_8h.html#a6ca91617487e21fad9536a151e1aa74f">CARNA_ASSERT</a></div><div class="ttdeci">#define CARNA_ASSERT(expression)</div><div class="ttdoc">If the given expression is false, a break point is raised in debug mode and an AssertionFailure throw...</div><div class="ttdef"><b>Definition:</b> <a href="_carna_exception_8h_source.html#l00212">CarnaException.h:212</a></div></div>
-<div class="ttc" id="class_carna_1_1base_1_1_log_html_a80ada39f636acf2cdb409c5256467937a3236115e0961973002d7b22ac0bc38fc"><div class="ttname"><a href="class_carna_1_1base_1_1_log.html#a80ada39f636acf2cdb409c5256467937a3236115e0961973002d7b22ac0bc38fc">Carna::base::Log::debug</a></div><div class="ttdoc">Indicates messages that might be of interest when searching bugs. </div><div class="ttdef"><b>Definition:</b> <a href="_log_8h_source.html#l00088">Log.h:88</a></div></div>
-<div class="ttc" id="class_carna_1_1base_1_1_singleton_html_a1f55c4604dcdd90886fce91a27fb035a"><div class="ttname"><a href="class_carna_1_1base_1_1_singleton.html#a1f55c4604dcdd90886fce91a27fb035a">Carna::base::Singleton&lt; Log &gt;::instance</a></div><div class="ttdeci">static Log &amp; instance()</div><div class="ttdoc">Returns the only instance from class InstanceType. </div><div class="ttdef"><b>Definition:</b> <a href="_singleton_8h_source.html#l00109">Singleton.h:109</a></div></div>
-<div class="ttc" id="class_carna_1_1base_1_1_log_html_abad1663d1a275da6f5a64198c169556b"><div class="ttname"><a href="class_carna_1_1base_1_1_log.html#abad1663d1a275da6f5a64198c169556b">Carna::base::Log::record</a></div><div class="ttdeci">void record(Severity severity, const std::string &amp;entry) const </div><div class="ttdoc">Instructs current writer to write entry with severity. </div></div>
+<div class="ttc" id="classCarna_1_1base_1_1Log_html_a80ada39f636acf2cdb409c5256467937a3236115e0961973002d7b22ac0bc38fc"><div class="ttname"><a href="classCarna_1_1base_1_1Log.html#a80ada39f636acf2cdb409c5256467937a3236115e0961973002d7b22ac0bc38fc">Carna::base::Log::debug</a></div><div class="ttdoc">Indicates messages that might be of interest when searching bugs. </div><div class="ttdef"><b>Definition:</b> <a href="Log_8h_source.html#l00088">Log.h:88</a></div></div>
+<div class="ttc" id="classCarna_1_1base_1_1Log_html_abad1663d1a275da6f5a64198c169556b"><div class="ttname"><a href="classCarna_1_1base_1_1Log.html#abad1663d1a275da6f5a64198c169556b">Carna::base::Log::record</a></div><div class="ttdeci">void record(Severity severity, const std::string &amp;entry) const </div><div class="ttdoc">Instructs current writer to write entry with severity. </div></div>
+<div class="ttc" id="classCarna_1_1base_1_1Singleton_html_a1f55c4604dcdd90886fce91a27fb035a"><div class="ttname"><a href="classCarna_1_1base_1_1Singleton.html#a1f55c4604dcdd90886fce91a27fb035a">Carna::base::Singleton&lt; Log &gt;::instance</a></div><div class="ttdeci">static Log &amp; instance()</div><div class="ttdoc">Returns the only instance from class InstanceType. </div><div class="ttdef"><b>Definition:</b> <a href="Singleton_8h_source.html#l00109">Singleton.h:109</a></div></div>
+<div class="ttc" id="CarnaException_8h_html_a6ca91617487e21fad9536a151e1aa74f"><div class="ttname"><a href="CarnaException_8h.html#a6ca91617487e21fad9536a151e1aa74f">CARNA_ASSERT</a></div><div class="ttdeci">#define CARNA_ASSERT(expression)</div><div class="ttdoc">If the given expression is false, a break point is raised in debug mode and an AssertionFailure throw...</div><div class="ttdef"><b>Definition:</b> <a href="CarnaException_8h_source.html#l00212">CarnaException.h:212</a></div></div>
 </div><!-- fragment -->
-<p>Invokes <code>glewInit</code> and raises an <a class="el" href="class_carna_1_1base_1_1_assertion_failure.html">AssertionFailure</a> if it fails. </p>
+<p>Invokes <code>glewInit</code> and raises an <a class="el" href="classCarna_1_1base_1_1AssertionFailure.html">AssertionFailure</a> if it fails. </p>
 
 <p>Definition at line <a class="el" href="glew_8h_source.html#l00041">41</a> of file <a class="el" href="glew_8h_source.html">glew.h</a>.</p>
 

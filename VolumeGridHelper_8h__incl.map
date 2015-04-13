@@ -1,0 +1,29 @@
+<map id="include/Carna/helpers/VolumeGridHelper.h" name="include/Carna/helpers/VolumeGridHelper.h">
+<area shape="rect" id="node3" href="$VolumeGridHelperDetails_8h.html" title="Defines Carna::helpers::details::VolumeGridHelper. " alt="" coords="1380,102,1553,149"/>
+<area shape="rect" id="node5" href="$Carna_8h_source.html" title="Carna/Carna.h" alt="" coords="1365,640,1472,669"/>
+<area shape="rect" id="node11" href="$VolumeGrid_8h.html" title="Defines Carna::base::VolumeGrid. " alt="" coords="549,207,720,236"/>
+<area shape="rect" id="node18" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="2272,476,2405,505"/>
+<area shape="rect" id="node43" href="$VolumeSegment_8h.html" title="Defines Carna::base::VolumeSegment. " alt="" coords="528,293,728,323"/>
+<area shape="rect" id="node99" href="$Geometry_8h.html" title="Defines Carna::base::Geometry. " alt="" coords="803,293,963,323"/>
+<area shape="rect" id="node128" href="$Node_8h.html" title="Defines Carna::base::Node. " alt="" coords="987,293,1120,323"/>
+<area shape="rect" id="node136" href="$BoundingBox_8h.html" title="Defines Carna::base::BoundingBox. " alt="" coords="5,293,187,323"/>
+<area shape="rect" id="node56" href="$BufferedVectorFieldTexture_8h.html" title="Defines Carna::base::BufferedVectorFieldTexture. " alt="" coords="1561,198,1740,245"/>
+<area shape="rect" id="node78" href="$BufferedNormalMap3D_8h.html" title="Defines Carna::base::BufferedNormalMap3D. " alt="" coords="2436,198,2620,245"/>
+<area shape="rect" id="node89" href="$text_8h.html" title="Defines Carna::base::text. " alt="" coords="2733,563,2859,592"/>
+<area shape="rect" id="node110" href="$Log_8h.html" title="Defines Carna::base::Log. " alt="" coords="1296,293,1421,323"/>
+<area shape="rect" id="node121" href="$Stopwatch_8h.html" title="Defines Carna::base::Stopwatch. " alt="" coords="1824,207,1989,236"/>
+<area shape="rect" id="node14" href="$HUVolume_8h.html" title="Defines Carna::base::HUVolume. " alt="" coords="1445,293,1613,323"/>
+<area shape="rect" id="node21" href="$CarnaException_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="2221,563,2419,592"/>
+<area shape="rect" id="node16" href="$VectorField_8h.html" title="Defines Carna::base::math::VectorField. " alt="" coords="2000,380,2203,409"/>
+<area shape="rect" id="node41" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="1192,563,1368,592"/>
+<area shape="rect" id="node46" href="$Association_8h.html" title="Defines Carna::base::Association. " alt="" coords="755,476,925,505"/>
+<area shape="rect" id="node58" href="$ManagedTexture3D_8h.html" title="Defines Carna::base::ManagedTexture3D. " alt="" coords="1637,293,1856,323"/>
+<area shape="rect" id="node74" href="$BufferedVectorFieldFormat_8h.html" title="Defines Carna::base::BufferedVectorFieldFormat. " alt="" coords="1968,467,2147,514"/>
+<area shape="rect" id="node61" href="$ManagedTexture3DInterface_8h.html" title="Defines Carna::base::ManagedTexture3DInterface. " alt="" coords="1512,371,1709,418"/>
+<area shape="rect" id="node64" href="$GeometryFeature_8h.html" title="Defines Carna::base::GeometryFeature. " alt="" coords="1557,476,1763,505"/>
+<area shape="rect" id="node80" href="$NormalMap3D_8h.html" title="Defines Carna::base::NormalMap3D. " alt="" coords="2088,293,2275,323"/>
+<area shape="rect" id="node85" href="$Composition_8h.html" title="Defines Carna::base::Composition. " alt="" coords="784,380,960,409"/>
+<area shape="rect" id="node102" href="$Spatial_8h.html" title="Defines Carna::base::Spatial. " alt="" coords="1035,380,1179,409"/>
+<area shape="rect" id="node113" href="$Singleton_8h.html" title="Defines Carna::base::Singleton. " alt="" coords="1787,476,1944,505"/>
+<area shape="rect" id="node139" href="$BoundingVolume_8h.html" title="Defines Carna::base::BoundingVolume. " alt="" coords="413,380,616,409"/>
+</map>

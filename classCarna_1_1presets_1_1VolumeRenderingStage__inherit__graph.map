@@ -1,0 +1,7 @@
+<map id="Carna::presets::VolumeRenderingStage" name="Carna::presets::VolumeRenderingStage">
+<area shape="rect" id="node7" href="$classCarna_1_1presets_1_1DRRStage.html" title="Renders digital radiograph reconstructs of volume geometries in the scene. " alt="" coords="5,275,184,304"/>
+<area shape="rect" id="node9" href="$classCarna_1_1presets_1_1DVRStage.html" title="Performs direct volume renderings of the volume geometries in the scene. " alt="" coords="208,275,387,304"/>
+<area shape="rect" id="node11" href="$classCarna_1_1presets_1_1MIPStage.html" title="Renders maximum intensity projections of volume geometries in the scene. " alt="" coords="411,275,584,304"/>
+<area shape="rect" id="node2" href="$classCarna_1_1base_1_1GeometryStage.html" title="Carna::base::GeometryStage\l\&lt; base::Renderable::BackToFront \&gt;" alt="" coords="183,83,412,130"/>
+<area shape="rect" id="node4" href="$classCarna_1_1base_1_1RenderStage.html" title="Base abstract class of each rendering stage. Refer to the documentation of the rendering process..." alt="" coords="209,5,385,35"/>
+</map>

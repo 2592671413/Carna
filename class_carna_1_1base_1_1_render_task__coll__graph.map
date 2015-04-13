@@ -1,4 +1,0 @@
-<map id="Carna::base::RenderTask" name="Carna::base::RenderTask">
-<area shape="rect" id="node2" href="$class_carna_1_1base_1_1_frame_renderer.html" title="Defines logic for rendering frames from given scenes. " alt="" coords="5,99,195,125"/>
-<area shape="rect" id="node4" href="$class_carna_1_1base_1_1_render_stage_sequence.html" title="Represents a rendering stages sequence. " alt="" coords="13,6,187,47"/>
-</map>

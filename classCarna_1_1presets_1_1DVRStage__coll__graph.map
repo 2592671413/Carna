@@ -1,0 +1,6 @@
+<map id="Carna::presets::DVRStage" name="Carna::presets::DVRStage">
+<area shape="rect" id="node2" href="$classCarna_1_1presets_1_1VolumeRenderingStage.html" title="Defines abstract base class for rendering stages that render volume geometries in the scene..." alt="" coords="584,27,803,74"/>
+<area shape="rect" id="node4" href="$classCarna_1_1base_1_1GeometryStage.html" title="Carna::base::GeometryStage\l\&lt; base::Renderable::BackToFront \&gt;" alt="" coords="303,27,532,74"/>
+<area shape="rect" id="node6" href="$classCarna_1_1base_1_1RenderStage.html" title="Base abstract class of each rendering stage. Refer to the documentation of the rendering process..." alt="" coords="33,5,209,35"/>
+<area shape="rect" id="node8" href="$classCarna_1_1base_1_1RenderQueue.html" title="Carna::base::RenderQueue\l\&lt; base::Renderable::BackToFront \&gt;" alt="" coords="7,58,236,105"/>
+</map>

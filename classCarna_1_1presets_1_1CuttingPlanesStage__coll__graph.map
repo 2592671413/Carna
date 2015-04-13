@@ -1,0 +1,5 @@
+<map id="Carna::presets::CuttingPlanesStage" name="Carna::presets::CuttingPlanesStage">
+<area shape="rect" id="node2" href="$classCarna_1_1base_1_1GeometryStage.html" title="Carna::base::GeometryStage\l\&lt; void \&gt;" alt="" coords="99,121,291,167"/>
+<area shape="rect" id="node4" href="$classCarna_1_1base_1_1RenderStage.html" title="Base abstract class of each rendering stage. Refer to the documentation of the rendering process..." alt="" coords="5,15,181,44"/>
+<area shape="rect" id="node6" href="$classCarna_1_1base_1_1RenderQueue.html" title="Carna::base::RenderQueue\l\&lt; void \&gt;" alt="" coords="205,6,387,53"/>
+</map>

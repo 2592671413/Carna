@@ -1,0 +1,5 @@
+<map id="Carna::base::SpatialMovement" name="Carna::base::SpatialMovement">
+<area shape="rect" id="node2" href="$classCarna_1_1base_1_1Camera.html" title="Represents the point&#45;of&#45;view and defines the 3D to 2D projection. " alt="" coords="5,85,152,115"/>
+<area shape="rect" id="node4" href="$classCarna_1_1base_1_1Spatial.html" title="Represents a spatial scene element. It&#39;s location is determined relatively to another spatial that is..." alt="" coords="8,5,149,35"/>
+<area shape="rect" id="node6" href="$classCarna_1_1base_1_1Viewport.html" title="Defines a rendering viewport. The viewport is a property of the current OpenGL context. " alt="" coords="176,85,328,115"/>
+</map>

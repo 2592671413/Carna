@@ -1,0 +1,17 @@
+<map id="include/Carna/base/GeometryStage.h" name="include/Carna/base/GeometryStage.h">
+<area shape="rect" id="node3" href="$FrameRenderer_8h.html" title="Defines Carna::base::FrameRenderer. " alt="" coords="165,101,360,131"/>
+<area shape="rect" id="node26" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="927,333,1060,363"/>
+<area shape="rect" id="node49" href="$RenderStage_8h.html" title="Defines Carna::base::RenderStage. " alt="" coords="493,256,672,285"/>
+<area shape="rect" id="node54" href="$RenderQueue_8h.html" title="Defines Carna::base::RenderQueue. " alt="" coords="997,101,1181,131"/>
+<area shape="rect" id="node75" href="$GeometryFeature_8h.html" title="Defines Carna::base::GeometryFeature. " alt="" coords="641,333,847,363"/>
+<area shape="rect" id="node5" href="$Carna_8h_source.html" title="Carna/Carna.h" alt="" coords="1105,488,1212,517"/>
+<area shape="rect" id="node11" href="$RenderStageSequence_8h.html" title="Defines Carna::base::RenderStageSequence. " alt="" coords="144,179,381,208"/>
+<area shape="rect" id="node14" href="$Aggregation_8h.html" title="Defines Carna::base::Aggregation. " alt="" coords="144,256,317,285"/>
+<area shape="rect" id="node19" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="368,411,544,440"/>
+<area shape="rect" id="node16" href="$Association_8h.html" title="Defines Carna::base::Association. " alt="" coords="147,333,317,363"/>
+<area shape="rect" id="node29" href="$CarnaException_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="1489,411,1687,440"/>
+<area shape="rect" id="node57" href="$Node_8h.html" title="Defines Carna::base::Node. " alt="" coords="1083,179,1216,208"/>
+<area shape="rect" id="node67" href="$Geometry_8h.html" title="Defines Carna::base::Geometry. " alt="" coords="1240,179,1400,208"/>
+<area shape="rect" id="node72" href="$Renderable_8h.html" title="Defines Carna::base::Renderable. " alt="" coords="992,256,1163,285"/>
+<area shape="rect" id="node59" href="$Spatial_8h.html" title="Defines Carna::base::Spatial. " alt="" coords="1187,256,1331,285"/>
+</map>

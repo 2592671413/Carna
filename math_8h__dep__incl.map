@@ -1,51 +1,51 @@
 <map id="include/Carna/base/math.h" name="include/Carna/base/math.h">
-<area shape="rect" id="node3" href="$_bounding_volume_8h.html" title="Defines Carna::base::BoundingVolume. " alt="" coords="179,97,313,138"/>
-<area shape="rect" id="node7" href="$_volume_grid_helper_8h.html" title="Defines Carna::helpers::VolumeGridHelper. " alt="" coords="17,278,164,319"/>
-<area shape="rect" id="node11" href="$_color_8h.html" title="Defines Carna::base::Color. " alt="" coords="1103,97,1236,138"/>
-<area shape="rect" id="node15" href="$_framebuffer_8h.html" title="Defines Carna::base::Framebuffer. " alt="" coords="1260,97,1393,138"/>
-<area shape="rect" id="node19" href="$_frame_renderer_8h.html" title="Defines Carna::base::FrameRenderer. " alt="" coords="645,278,779,319"/>
-<area shape="rect" id="node21" href="$_geometry_stage_8h.html" title="Defines Carna::base::GeometryStage. " alt="" coords="809,369,943,410"/>
-<area shape="rect" id="node35" href="$_managed_mesh_interface_8h.html" title="Defines Carna::base::ManagedMeshInterface. " alt="" coords="1468,97,1639,138"/>
-<area shape="rect" id="node39" href="$_mesh_factory_8h.html" title="Defines Carna::base::MeshFactory. " alt="" coords="1469,278,1603,319"/>
-<area shape="rect" id="node41" href="$_managed_texture3_d_8h.html" title="Defines Carna::base::ManagedTexture3D. " alt="" coords="1691,187,1840,229"/>
-<area shape="rect" id="node45" href="$_managed_texture3_d_interface_8h.html" title="Defines Carna::base::ManagedTexture3DInterface. " alt="" coords="1663,97,1861,138"/>
-<area shape="rect" id="node48" href="$_ray_8h.html" title="Defines Carna::base::math::Ray. " alt="" coords="1988,97,2121,138"/>
-<area shape="rect" id="node50" href="$_ray_plane_hit_test_8h.html" title="Defines Carna::base::math::RayPlaneHitTest. " alt="" coords="1865,187,2031,229"/>
-<area shape="rect" id="node52" href="$_ray_sphere_hit_test_8h.html" title="Defines Carna::base::math::RaySphereHitTest. " alt="" coords="2055,187,2229,229"/>
-<area shape="rect" id="node56" href="$_span_8h.html" title="Defines Carna::base::math::Span. " alt="" coords="2196,97,2329,138"/>
-<area shape="rect" id="node58" href="$_m_i_p_layer_8h.html" title="Defines Carna::presets::MIPLayer. " alt="" coords="2254,187,2401,229"/>
-<area shape="rect" id="node60" href="$_vector_field_8h.html" title="Defines Carna::base::math::VectorField. " alt="" coords="2404,97,2540,138"/>
-<area shape="rect" id="node64" href="$_normal_map3_d_8h.html" title="Defines Carna::base::NormalMap3D. " alt="" coords="2584,187,2717,229"/>
-<area shape="rect" id="node70" href="$_projection_control_8h.html" title="Defines Carna::base::ProjectionControl. " alt="" coords="2615,97,2751,138"/>
-<area shape="rect" id="node76" href="$_renderable_8h.html" title="Defines Carna::base::Renderable. " alt="" coords="957,187,1091,229"/>
-<area shape="rect" id="node79" href="$_render_queue_8h.html" title="Defines Carna::base::RenderQueue. " alt="" coords="803,278,936,319"/>
-<area shape="rect" id="node85" href="$_render_stage_8h.html" title="Defines Carna::base::RenderStage. " alt="" coords="279,278,412,319"/>
-<area shape="rect" id="node94" href="$_render_task_8h.html" title="Defines Carna::base::RenderTask. " alt="" coords="652,369,785,410"/>
-<area shape="rect" id="node97" href="$_shader_program_8h.html" title="Defines Carna::base::ShaderProgram. " alt="" coords="2775,97,2908,138"/>
-<area shape="rect" id="node99" href="$_shader_uniform_8h_source.html" title="include/Carna/base\l/ShaderUniform.h" alt="" coords="437,278,571,319"/>
-<area shape="rect" id="node105" href="$_spatial_8h.html" title="Defines Carna::base::Spatial. " alt="" coords="547,97,680,138"/>
-<area shape="rect" id="node113" href="$_spatial_movement_8h.html" title="Defines Carna::base::SpatialMovement. " alt="" coords="2932,97,3068,138"/>
-<area shape="rect" id="node115" href="$_texture_8h.html" title="Defines Carna::base::Texture. " alt="" coords="3092,97,3225,138"/>
-<area shape="rect" id="node119" href="$_mesh_color_coding_stage_test_8h_source.html" title="test/ModuleTests/MeshColor\lCodingStageTest.h" alt="" coords="3250,97,3437,138"/>
-<area shape="rect" id="node121" href="$_h_u_g_z_scene_factory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="3463,104,3673,131"/>
-<area shape="rect" id="node5" href="$_bounding_box_8h.html" title="Defines Carna::base::BoundingBox. " alt="" coords="24,187,157,229"/>
-<area shape="rect" id="node9" href="$_bounding_sphere_8h.html" title="Defines Carna::base::BoundingSphere. " alt="" coords="181,187,315,229"/>
-<area shape="rect" id="node13" href="$_rotating_color_8h.html" title="Defines Carna::base::RotatingColor. " alt="" coords="1115,187,1248,229"/>
-<area shape="rect" id="node17" href="$_test_framebuffer_8h_source.html" title="test/Tools/TestFramebuffer.h" alt="" coords="1272,195,1459,221"/>
-<area shape="rect" id="node23" href="$_mesh_rendering_stage_8h.html" title="Defines Carna::base::MeshRenderingStage. " alt="" coords="478,459,639,501"/>
-<area shape="rect" id="node27" href="$_cutting_planes_stage_8h.html" title="Defines Carna::presets::CuttingPlanesStage. " alt="" coords="1059,459,1211,501"/>
-<area shape="rect" id="node29" href="$_mesh_color_coding_stage_8h.html" title="Defines Carna::presets::MeshColorCodingStage. " alt="" coords="664,459,837,501"/>
-<area shape="rect" id="node32" href="$_volume_rendering_stage_8h.html" title="Defines Carna::presets::VolumeRenderingStage. " alt="" coords="861,459,1035,501"/>
-<area shape="rect" id="node25" href="$_frame_renderer_helper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="313,550,476,591"/>
-<area shape="rect" id="node37" href="$_managed_mesh_8h.html" title="Defines Carna::base::ManagedMesh. " alt="" coords="1533,187,1667,229"/>
-<area shape="rect" id="node43" href="$_buffered_vector_field_texture_8h.html" title="Defines Carna::base::BufferedVectorFieldTexture. " alt="" coords="1669,278,1861,319"/>
-<area shape="rect" id="node62" href="$_h_u_volume_8h.html" title="Defines Carna::base::HUVolume. " alt="" coords="2427,187,2560,229"/>
-<area shape="rect" id="node66" href="$_buffered_normal_map3_d_8h.html" title="Defines Carna::base::BufferedNormalMap3D. " alt="" coords="2567,278,2733,319"/>
-<area shape="rect" id="node72" href="$_orthogonal_control_8h.html" title="Defines Carna::presets::OrthogonalControl. " alt="" coords="2742,187,2889,229"/>
-<area shape="rect" id="node74" href="$_perspective_control_8h.html" title="Defines Carna::presets::PerspectiveControl. " alt="" coords="2914,187,3061,229"/>
-<area shape="rect" id="node89" href="$_composition_stage_8h.html" title="Defines Carna::presets::CompositionStage. " alt="" coords="271,369,419,410"/>
-<area shape="rect" id="node91" href="$_occluded_rendering_stage_8h.html" title="Defines Carna::presets::OccludedRenderingStage. " alt="" coords="12,369,196,410"/>
-<area shape="rect" id="node101" href="$_material_8h.html" title="Defines Carna::base::Material. " alt="" coords="495,369,628,410"/>
-<area shape="rect" id="node107" href="$_camera_8h.html" title="Defines Carna::base::Camera. " alt="" coords="389,187,523,229"/>
-<area shape="rect" id="node109" href="$_geometry_8h.html" title="Defines Carna::base::Geometry. " alt="" coords="547,187,680,229"/>
+<area shape="rect" id="node3" href="$BoundingVolume_8h.html" title="Defines Carna::base::BoundingVolume. " alt="" coords="182,102,315,149"/>
+<area shape="rect" id="node7" href="$VolumeGridHelper_8h.html" title="Defines Carna::helpers::VolumeGridHelper. " alt="" coords="18,294,165,341"/>
+<area shape="rect" id="node11" href="$Color_8h.html" title="Defines Carna::base::Color. " alt="" coords="1102,102,1235,149"/>
+<area shape="rect" id="node15" href="$Framebuffer_8h.html" title="Defines Carna::base::Framebuffer. " alt="" coords="1259,102,1393,149"/>
+<area shape="rect" id="node19" href="$FrameRenderer_8h.html" title="Defines Carna::base::FrameRenderer. " alt="" coords="646,294,779,341"/>
+<area shape="rect" id="node21" href="$GeometryStage_8h.html" title="Defines Carna::base::GeometryStage. " alt="" coords="807,390,941,437"/>
+<area shape="rect" id="node35" href="$ManagedMeshInterface_8h.html" title="Defines Carna::base::ManagedMeshInterface. " alt="" coords="1467,102,1641,149"/>
+<area shape="rect" id="node39" href="$MeshFactory_8h.html" title="Defines Carna::base::MeshFactory. " alt="" coords="1473,294,1606,341"/>
+<area shape="rect" id="node41" href="$ManagedTexture3D_8h.html" title="Defines Carna::base::ManagedTexture3D. " alt="" coords="1694,198,1843,245"/>
+<area shape="rect" id="node45" href="$ManagedTexture3DInterface_8h.html" title="Defines Carna::base::ManagedTexture3DInterface. " alt="" coords="1665,102,1867,149"/>
+<area shape="rect" id="node48" href="$Ray_8h.html" title="Defines Carna::base::math::Ray. " alt="" coords="1993,102,2126,149"/>
+<area shape="rect" id="node50" href="$RayPlaneHitTest_8h.html" title="Defines Carna::base::math::RayPlaneHitTest. " alt="" coords="1867,198,2038,245"/>
+<area shape="rect" id="node52" href="$RaySphereHitTest_8h.html" title="Defines Carna::base::math::RaySphereHitTest. " alt="" coords="2062,198,2241,245"/>
+<area shape="rect" id="node56" href="$Span_8h.html" title="Defines Carna::base::math::Span. " alt="" coords="2201,102,2334,149"/>
+<area shape="rect" id="node58" href="$MIPLayer_8h.html" title="Defines Carna::presets::MIPLayer. " alt="" coords="2265,198,2414,245"/>
+<area shape="rect" id="node60" href="$VectorField_8h.html" title="Defines Carna::base::math::VectorField. " alt="" coords="2409,102,2545,149"/>
+<area shape="rect" id="node64" href="$NormalMap3D_8h.html" title="Defines Carna::base::NormalMap3D. " alt="" coords="2595,198,2729,245"/>
+<area shape="rect" id="node70" href="$ProjectionControl_8h.html" title="Defines Carna::base::ProjectionControl. " alt="" coords="2619,102,2755,149"/>
+<area shape="rect" id="node76" href="$Renderable_8h.html" title="Defines Carna::base::Renderable. " alt="" coords="958,198,1091,245"/>
+<area shape="rect" id="node79" href="$RenderQueue_8h.html" title="Defines Carna::base::RenderQueue. " alt="" coords="803,294,937,341"/>
+<area shape="rect" id="node85" href="$RenderStage_8h.html" title="Defines Carna::base::RenderStage. " alt="" coords="277,294,410,341"/>
+<area shape="rect" id="node94" href="$RenderTask_8h.html" title="Defines Carna::base::RenderTask. " alt="" coords="650,390,783,437"/>
+<area shape="rect" id="node97" href="$ShaderProgram_8h.html" title="Defines Carna::base::ShaderProgram. " alt="" coords="2779,102,2913,149"/>
+<area shape="rect" id="node99" href="$ShaderUniform_8h_source.html" title="include/Carna/base\l/ShaderUniform.h" alt="" coords="438,294,571,341"/>
+<area shape="rect" id="node105" href="$Spatial_8h.html" title="Defines Carna::base::Spatial. " alt="" coords="547,102,681,149"/>
+<area shape="rect" id="node113" href="$SpatialMovement_8h.html" title="Defines Carna::base::SpatialMovement. " alt="" coords="2937,102,3075,149"/>
+<area shape="rect" id="node115" href="$Texture_8h.html" title="Defines Carna::base::Texture. " alt="" coords="3099,102,3233,149"/>
+<area shape="rect" id="node119" href="$MeshColorCodingStageTest_8h_source.html" title="test/ModuleTests/MeshColor\lCodingStageTest.h" alt="" coords="3257,102,3446,149"/>
+<area shape="rect" id="node121" href="$HUGZSceneFactory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="3470,111,3683,140"/>
+<area shape="rect" id="node5" href="$BoundingBox_8h.html" title="Defines Carna::base::BoundingBox. " alt="" coords="25,198,158,245"/>
+<area shape="rect" id="node9" href="$BoundingSphere_8h.html" title="Defines Carna::base::BoundingSphere. " alt="" coords="182,198,315,245"/>
+<area shape="rect" id="node13" href="$RotatingColor_8h.html" title="Defines Carna::base::RotatingColor. " alt="" coords="1115,198,1249,245"/>
+<area shape="rect" id="node17" href="$TestFramebuffer_8h_source.html" title="test/Tools/TestFramebuffer.h" alt="" coords="1273,207,1462,236"/>
+<area shape="rect" id="node23" href="$MeshRenderingStage_8h.html" title="Defines Carna::base::MeshRenderingStage. " alt="" coords="475,486,638,533"/>
+<area shape="rect" id="node27" href="$CuttingPlanesStage_8h.html" title="Defines Carna::presets::CuttingPlanesStage. " alt="" coords="1057,486,1209,533"/>
+<area shape="rect" id="node29" href="$MeshColorCodingStage_8h.html" title="Defines Carna::presets::MeshColorCodingStage. " alt="" coords="662,486,835,533"/>
+<area shape="rect" id="node32" href="$VolumeRenderingStage_8h.html" title="Defines Carna::presets::VolumeRenderingStage. " alt="" coords="859,486,1033,533"/>
+<area shape="rect" id="node25" href="$FrameRendererHelper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="311,582,477,629"/>
+<area shape="rect" id="node37" href="$ManagedMesh_8h.html" title="Defines Carna::base::ManagedMesh. " alt="" coords="1537,198,1670,245"/>
+<area shape="rect" id="node43" href="$BufferedVectorFieldTexture_8h.html" title="Defines Carna::base::BufferedVectorFieldTexture. " alt="" coords="1671,294,1866,341"/>
+<area shape="rect" id="node62" href="$HUVolume_8h.html" title="Defines Carna::base::HUVolume. " alt="" coords="2438,198,2571,245"/>
+<area shape="rect" id="node66" href="$BufferedNormalMap3D_8h.html" title="Defines Carna::base::BufferedNormalMap3D. " alt="" coords="2577,294,2747,341"/>
+<area shape="rect" id="node72" href="$OrthogonalControl_8h.html" title="Defines Carna::presets::OrthogonalControl. " alt="" coords="2753,198,2902,245"/>
+<area shape="rect" id="node74" href="$PerspectiveControl_8h.html" title="Defines Carna::presets::PerspectiveControl. " alt="" coords="2926,198,3075,245"/>
+<area shape="rect" id="node89" href="$CompositionStage_8h.html" title="Defines Carna::presets::CompositionStage. " alt="" coords="269,390,418,437"/>
+<area shape="rect" id="node91" href="$OccludedRenderingStage_8h.html" title="Defines Carna::presets::OccludedRenderingStage. " alt="" coords="10,390,194,437"/>
+<area shape="rect" id="node101" href="$Material_8h.html" title="Defines Carna::base::Material. " alt="" coords="493,390,626,437"/>
+<area shape="rect" id="node107" href="$Camera_8h.html" title="Defines Carna::base::Camera. " alt="" coords="390,198,523,245"/>
+<area shape="rect" id="node109" href="$Geometry_8h.html" title="Defines Carna::base::Geometry. " alt="" coords="547,198,681,245"/>
 </map>

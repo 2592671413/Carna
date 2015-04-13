@@ -1,6 +1,0 @@
-<map id="include/Carna/base/Color.h" name="include/Carna/base/Color.h">
-<area shape="rect" id="node3" href="$_carna_8h_source.html" title="Carna/Carna.h" alt="" coords="22,245,127,272"/>
-<area shape="rect" id="node9" href="$noncopyable_8h.html" title="Carna/base/noncopyable.h" alt="" coords="132,96,308,123"/>
-<area shape="rect" id="node11" href="$math_8h.html" title="Defines Carna::base::math namespace and CARNA_FOR_VECTOR3UI. " alt="" coords="353,96,484,123"/>
-<area shape="rect" id="node14" href="$_carna_exception_8h.html" title="Defines Carna::base::CarnaException, Carna::base::AssertionFailure. " alt="" coords="163,171,357,197"/>
-</map>

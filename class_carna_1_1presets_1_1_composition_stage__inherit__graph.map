@@ -1,4 +1,0 @@
-<map id="Carna::presets::CompositionStage" name="Carna::presets::CompositionStage">
-<area shape="rect" id="node5" href="$class_carna_1_1presets_1_1_parallax_stage.html" title="Produces stereoscopic renderings. " alt="" coords="17,171,180,213"/>
-<area shape="rect" id="node2" href="$class_carna_1_1base_1_1_render_stage.html" title="Base abstract class of each rendering stage. Refer to the documentation of the rendering process..." alt="" coords="11,5,185,32"/>
-</map>

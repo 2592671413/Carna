@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['log',['Log',['../class_carna_1_1base_1_1_log.html',1,'Carna::base']]]
+  ['log',['Log',['../classCarna_1_1base_1_1Log.html',1,'Carna::base']]]
 ];

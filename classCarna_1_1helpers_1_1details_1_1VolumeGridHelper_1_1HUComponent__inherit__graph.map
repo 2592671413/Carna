@@ -1,0 +1,4 @@
+<map id="Carna::helpers::details::VolumeGridHelper::HUComponent&lt; SegmentHUVolumeType, SegmentNormalsVolumeType &gt;" name="Carna::helpers::details::VolumeGridHelper::HUComponent&lt; SegmentHUVolumeType, SegmentNormalsVolumeType &gt;">
+<area shape="rect" id="node5" href="$classCarna_1_1helpers_1_1VolumeGridHelper.html" title="Computes the partitioning of volumetric data and the corresponding normal map. Also creates scene nod..." alt="" coords="693,13,915,77"/>
+<area shape="rect" id="node2" href="$classCarna_1_1helpers_1_1details_1_1VolumeGridHelper_1_1TextureManager.html" title="Carna::helpers::details\l::VolumeGridHelper::TextureManager\l\&lt; HUTextureFactory\&lt; SegmentHUVolumeType,\l SegmentNormalsVolumeType \&gt; \&gt;" alt="" coords="7,5,308,86"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="include/Carna/base/Composition.h" name="include/Carna/base/Composition.h">
-<area shape="rect" id="node3" href="$_buffered_h_u_volume_8h.html" title="Defines Carna::base::BufferedHUVolume. " alt="" coords="57,97,204,138"/>
-<area shape="rect" id="node7" href="$_buffered_normal_map3_d_8h.html" title="Defines Carna::base::BufferedNormalMap3D. " alt="" coords="238,97,404,138"/>
-<area shape="rect" id="node5" href="$_h_u_g_z_scene_factory_8h_source.html" title="test/Tools/HUGZSceneFactory.h" alt="" coords="5,195,216,221"/>
-<area shape="rect" id="node9" href="$_volume_grid_helper_details_8h.html" title="Defines Carna::helpers::details::VolumeGridHelper. " alt="" coords="241,187,423,229"/>
-<area shape="rect" id="node11" href="$_volume_grid_helper_8h.html" title="Defines Carna::helpers::VolumeGridHelper. " alt="" coords="259,278,405,319"/>
-</map>

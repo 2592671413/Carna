@@ -1,6 +1,6 @@
 <map id="include/Carna/base/text.h" name="include/Carna/base/text.h">
-<area shape="rect" id="node3" href="$_buffered_normal_map3_d_8h.html" title="Defines Carna::base::BufferedNormalMap3D. " alt="" coords="5,97,171,138"/>
-<area shape="rect" id="node5" href="$_volume_grid_helper_details_8h.html" title="Defines Carna::helpers::details::VolumeGridHelper. " alt="" coords="57,187,239,229"/>
-<area shape="rect" id="node9" href="$_frame_renderer_helper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="247,97,409,138"/>
-<area shape="rect" id="node7" href="$_volume_grid_helper_8h.html" title="Defines Carna::helpers::VolumeGridHelper. " alt="" coords="75,278,221,319"/>
+<area shape="rect" id="node3" href="$BufferedNormalMap3D_8h.html" title="Defines Carna::base::BufferedNormalMap3D. " alt="" coords="5,102,176,149"/>
+<area shape="rect" id="node5" href="$VolumeGridHelperDetails_8h.html" title="Defines Carna::helpers::details::VolumeGridHelper. " alt="" coords="60,198,244,245"/>
+<area shape="rect" id="node9" href="$FrameRendererHelper_8h.html" title="Defines Carna::helpers::FrameRendererHelper. " alt="" coords="251,102,416,149"/>
+<area shape="rect" id="node7" href="$VolumeGridHelper_8h.html" title="Defines Carna::helpers::VolumeGridHelper. " alt="" coords="79,294,225,341"/>
 </map>

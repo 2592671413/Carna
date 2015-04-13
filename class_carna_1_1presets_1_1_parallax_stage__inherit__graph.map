@@ -1,4 +1,0 @@
-<map id="Carna::presets::ParallaxStage" name="Carna::presets::ParallaxStage">
-<area shape="rect" id="node2" href="$class_carna_1_1presets_1_1_composition_stage.html" title="Defines rendering stage that combines two other renderings either by putting them next to each other ..." alt="" coords="5,81,192,122"/>
-<area shape="rect" id="node4" href="$class_carna_1_1base_1_1_render_stage.html" title="Base abstract class of each rendering stage. Refer to the documentation of the rendering process..." alt="" coords="11,5,185,32"/>
-</map>

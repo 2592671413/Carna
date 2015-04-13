@@ -1,0 +1,4 @@
+<map id="Carna::base::BoundingVolume" name="Carna::base::BoundingVolume">
+<area shape="rect" id="node3" href="$classCarna_1_1base_1_1BoundingBox.html" title="Defines a Geometry minimal boundary box. " alt="" coords="5,83,184,112"/>
+<area shape="rect" id="node5" href="$classCarna_1_1base_1_1BoundingSphere.html" title="Defines a Geometry minimal boundary sphere. " alt="" coords="208,83,403,112"/>
+</map>
