@@ -8,7 +8,7 @@ var searchData=
   ['default_5ffov_5fhorizontal',['DEFAULT_FOV_HORIZONTAL',['../class_carna_1_1presets_1_1_perspective_control.html#aa373a41dab62c942c9df0605b2a5cb72',1,'Carna::presets::PerspectiveControl']]],
   ['default_5flower_5fthreshold',['DEFAULT_LOWER_THRESHOLD',['../class_carna_1_1presets_1_1_d_r_r_stage.html#a734b7201b485286f26eb5422b220954f',1,'Carna::presets::DRRStage']]],
   ['default_5fmax_5fdistance',['DEFAULT_MAX_DISTANCE',['../class_carna_1_1presets_1_1_camera_showcase_control.html#acf7b6ad206ca651f3c10d97618ddd36e',1,'Carna::presets::CameraShowcaseControl']]],
-  ['default_5fmax_5fsegment_5fbytesize',['DEFAULT_MAX_SEGMENT_BYTESIZE',['../class_carna_1_1helpers_1_1_volume_grid_helper.html#ab9154475907a079ff5383efb3574c8a1',1,'Carna::helpers::VolumeGridHelper']]],
+  ['default_5fmax_5fsegment_5fbytesize',['DEFAULT_MAX_SEGMENT_BYTESIZE',['../class_carna_1_1helpers_1_1_volume_grid_helper_base.html#a92ef4e813da3e881b2c8d015cfe0dd1d',1,'Carna::helpers::VolumeGridHelperBase']]],
   ['default_5fmaximum_5fvisible_5fdistance',['DEFAULT_MAXIMUM_VISIBLE_DISTANCE',['../class_carna_1_1base_1_1_projection_control.html#a65a105ff08de9a30310f22c36fb3b712',1,'Carna::base::ProjectionControl']]],
   ['default_5fmin_5fdistance',['DEFAULT_MIN_DISTANCE',['../class_carna_1_1presets_1_1_camera_showcase_control.html#ac66f5e4b99f8c2c9ad976eb3073576a6',1,'Carna::presets::CameraShowcaseControl']]],
   ['default_5fminimum_5fvisible_5fdistance',['DEFAULT_MINIMUM_VISIBLE_DISTANCE',['../class_carna_1_1base_1_1_projection_control.html#a7c602aa189d0b4343e42378344d3848b',1,'Carna::base::ProjectionControl']]],

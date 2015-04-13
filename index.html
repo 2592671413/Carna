@@ -31,7 +31,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Carna
-   &#160;<span id="projectnumber">Version 3.0.0</span>
+   &#160;<span id="projectnumber">Version 3.0.1</span>
    </div>
   </td>
  </tr>
@@ -202,7 +202,7 @@ Spatial Class Specializations</h3>
 The <a class="el" href="class_carna_1_1base_1_1_spatial_movement.html">base::SpatialMovement</a> class makes the implementation of drag-&amp;-drop like behaviour for <code>Geometry</code> objects very easy.</dd></dl>
 <h3><a class="anchor" id="QuickStart_VolumeGridHelper"></a>
 Positioning CT Data</h3>
-<p>The <code>VolumeGridHelper</code> class takes care of two things. First, it partitions the volumetric <code>data</code> into multiple smaller, box-shaped volumes. This partitioning is done according to an upper limit of each volume's memory size. It reduces the probability of out-of-memory exceptions due to memory fragmentation. In the example no specific limit is set, thus the <a class="el" href="class_carna_1_1helpers_1_1_volume_grid_helper.html#ab9154475907a079ff5383efb3574c8a1">default</a> is used. Second, the <code>VolumeGridHelper</code> class creates a scene <code>Node</code> that represents the partitioned <code>data</code> within the scene. This <code>Node</code> has one <code>Geometry</code> child per volume partition.</p>
+<p>The <code>VolumeGridHelper</code> class takes care of two things. First, it partitions the volumetric <code>data</code> into multiple smaller, box-shaped volumes. This partitioning is done according to an upper limit of each volume's memory size. It reduces the probability of out-of-memory exceptions due to memory fragmentation. In the example no specific limit is set, thus the <a class="el" href="class_carna_1_1helpers_1_1_volume_grid_helper_base.html#a92ef4e813da3e881b2c8d015cfe0dd1d">default</a> is used. Second, the <code>VolumeGridHelper</code> class creates a scene <code>Node</code> that represents the partitioned <code>data</code> within the scene. This <code>Node</code> has one <code>Geometry</code> child per volume partition.</p>
 <h2><a class="anchor" id="GeometryFeatures"></a>
 Geometry Features</h2>
 <p>Each <code>Geometry</code> node is rendered by the rendering stage with a matching geometry type. Usually that rendering stage will query particular <em>features</em> from this <code>Geometry</code> object: Features are like components that make up the <code>Geometry</code> object in its entirety, but the <code>Geometry</code> object <em>aggregates</em> them, i.e. does not take their possession. This allows the same feature to be reused many times across the scene, or even across many scenes. Rendering stages identify features through the <em>roles</em> they take when associated with a <code>Geometry</code> object.</p>

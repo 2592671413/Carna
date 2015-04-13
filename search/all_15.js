@@ -3,7 +3,7 @@ var searchData=
   ['w',['w',['../struct_carna_1_1base_1_1_vertex_base.html#a348e235026f823533a43249ef3883fbb',1,'Carna::base::VertexBase']]],
   ['warning',['warning',['../class_carna_1_1base_1_1_log.html#a80ada39f636acf2cdb409c5256467937ac3765221773c683da8b901e844e93032',1,'Carna::base::Log']]],
   ['waterattenuation',['waterAttenuation',['../class_carna_1_1presets_1_1_d_r_r_stage.html#a4e58d4b7d87c522b5c48752bb0a73119',1,'Carna::presets::DRRStage']]],
-  ['white',['WHITE',['../class_carna_1_1base_1_1_color.html#ad9cbfafbf758c2c139259ac8050225dc',1,'Carna::base::Color::WHITE()'],['../class_carna_1_1base_1_1_rotating_color.html#ab6ed7cd547d006d8b6d00c4e4e31ff2ba1d09c8fd39af81eef87abfbe5a4417fb',1,'Carna::base::RotatingColor::white()']]],
+  ['white',['white',['../class_carna_1_1base_1_1_rotating_color.html#ab6ed7cd547d006d8b6d00c4e4e31ff2ba1d09c8fd39af81eef87abfbe5a4417fb',1,'Carna::base::RotatingColor::white()'],['../class_carna_1_1base_1_1_color.html#ad9cbfafbf758c2c139259ac8050225dc',1,'Carna::base::Color::WHITE()']]],
   ['white_5fno_5falpha',['WHITE_NO_ALPHA',['../class_carna_1_1base_1_1_color.html#a6612fc7554d76caa3a528539b52fa7fa',1,'Carna::base::Color']]],
   ['width',['width',['../class_carna_1_1base_1_1_framebuffer.html#a04eeba3a2e280135f820fe4416efef0f',1,'Carna::base::Framebuffer::width()'],['../class_carna_1_1base_1_1_frame_renderer.html#a05827e5250d0a824a126a2525b250539',1,'Carna::base::FrameRenderer::width()'],['../class_carna_1_1base_1_1_viewport.html#ac4f20786d969b2dc8e35f50a51a40cf3',1,'Carna::base::Viewport::width()']]],
   ['windowinglevel',['windowingLevel',['../class_carna_1_1presets_1_1_cutting_planes_stage.html#a9e1df27a0b4de1da082898ad8208d4f5',1,'Carna::presets::CuttingPlanesStage']]],

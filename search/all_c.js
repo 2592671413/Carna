@@ -1,7 +1,7 @@
 var searchData=
 [
   ['name',['name',['../class_carna_1_1base_1_1_shader_uniform_base.html#a6f914de7d1cf50d53bdecc64c5cec3bb',1,'Carna::base::ShaderUniformBase']]],
-  ['nativeresolution',['nativeResolution',['../class_carna_1_1helpers_1_1_volume_grid_helper.html#ae2e376ea540f39483939b650855a682c',1,'Carna::helpers::VolumeGridHelper']]],
+  ['nativeresolution',['nativeResolution',['../class_carna_1_1helpers_1_1_volume_grid_helper_base.html#ae951c918011a7e56e1ad404a95db6257',1,'Carna::helpers::VolumeGridHelperBase']]],
   ['node',['Node',['../class_carna_1_1base_1_1_node.html#adbbaea3939b8106520423bff4d9a32d5',1,'Carna::base::Node']]],
   ['node',['Node',['../class_carna_1_1base_1_1_node.html',1,'Carna::base']]],
   ['node_2eh',['Node.h',['../_node_8h.html',1,'']]],

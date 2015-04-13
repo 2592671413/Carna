@@ -31,7 +31,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">Carna
-   &#160;<span id="projectnumber">Version 3.0.0</span>
+   &#160;<span id="projectnumber">Version 3.0.1</span>
    </div>
   </td>
  </tr>
@@ -93,14 +93,21 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 Versioning Policies</h1>
 <ul>
 <li>The <em>major version number</em> names the overall API version. It is incremented on wide-ranged API changes. There is absolutely no downward compatibility guaranteed: The compatibility of the API is usually broken when this version number is incremented.</li>
-<li>The <em>minor version number</em> tells the <em>"local"</em> API version. It is incremeted on API changes that do break downward compatibility, but only locally, s.t. only a few tweaks are neccessary - if any - in order to upgrade.</li>
+<li>The <em>minor version number</em> tells the *"local"* API version. It is incremeted on API changes that do break downward compatibility, but only locally, s.t. only a few tweaks are neccessary - if any - in order to upgrade.</li>
 <li>The <em>patch version number</em> is incremeted on such changes that neither of the two prior rules apply to: Full downward compatibility is guaranteed, thus one should always try to use the most recent patch version.</li>
 </ul>
 <h1><a class="anchor" id="ChangeLog"></a>
 Change Log</h1>
-<h2><a class="anchor" id="v_3_0_0"></a>
-API Version 3.0.0</h2>
-<p>First version of 3.x.x series. </p>
+<h2><a class="anchor" id="v_3_0_1"></a>
+API Version 3.0.1</h2>
+<ul>
+<li>Moved <code>helpers::VolumeGridHelper::DEFAULT_MAX_SEGMENT_BYTESIZE</code> to <code>helpers::VolumeGridHelperBase::DEFAULT_MAX_SEGMENT_BYTESIZE</code>.</li>
+<li>Moved <code>helpers::VolumeGridHelper::nativeResolution</code> to <code>helpers::VolumeGridHelperBase::nativeResolution</code>.</li>
+<li>Fixed partitioning bug in <a class="el" href="class_carna_1_1helpers_1_1_volume_grid_helper.html">helpers::VolumeGridHelper</a> that caused odd texture sizes in some cases.</li>
+<li>Fixed bug in <a class="el" href="class_carna_1_1helpers_1_1_volume_grid_helper.html#a12e8c26e01a93e8a4eb1976bd560a254">helpers::VolumeGridHelper::createNode</a> that caused wrong locations for tail segments.</li>
+<li>Fixed bug in <a class="el" href="class_carna_1_1presets_1_1_volume_rendering_stage.html">presets::VolumeRenderingStage</a> that caused crashes when textures had no corresponding samplers, i.e. they were unused.</li>
+<li><a class="el" href="class_carna_1_1presets_1_1_volume_rendering_stage.html">presets::VolumeRenderingStage</a> now suppresses artifacts that appear when rendering grids with many segments, e.g. \(8 \times 8 \times 1\) and more. </li>
+</ul>
 </div></div><!-- contents -->
 <hr class="footer"/>
     <address class="footer">
